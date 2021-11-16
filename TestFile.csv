@@ -1,0 +1,501 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1637062439173,1527,HTTP Request,200,OK,Thread Group 1-1,text,true,,106283,623,4,4,https://accounts.google.com/ServiceLogin?service=classroom&passive=1209600&continue=https://classroom.google.com/&followup=https://classroom.google.com/&emr=1,173,0,92
+1637062439173,175,HTTP Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,550,122,4,4,http://google.com/classroom,173,0,92
+1637062439349,493,HTTP Request-1,301,Moved Permanently,Thread Group 1-1,text,true,,717,126,4,4,https://www.google.com/classroom,493,0,410
+1637062439842,349,HTTP Request-2,302,Moved Temporarily,Thread Group 1-1,text,true,,1917,123,4,4,https://classroom.google.com/,348,0,162
+1637062440191,509,HTTP Request-3,200,OK,Thread Group 1-1,text,true,,103099,252,4,4,https://accounts.google.com/ServiceLogin?service=classroom&passive=1209600&continue=https://classroom.google.com/&followup=https://classroom.google.com/&emr=1,320,0,168
+1637062439601,1218,HTTP Request,200,OK,Thread Group 1-2,text,true,,106233,623,3,3,https://accounts.google.com/ServiceLogin?service=classroom&passive=1209600&continue=https://classroom.google.com/&followup=https://classroom.google.com/&emr=1,136,0,68
+1637062439601,137,HTTP Request-0,301,Moved Permanently,Thread Group 1-2,text,true,,558,122,3,3,http://google.com/classroom,136,0,68
+1637062439738,227,HTTP Request-1,301,Moved Permanently,Thread Group 1-2,text,true,,725,126,3,3,https://www.google.com/classroom,227,0,155
+1637062439965,362,HTTP Request-2,302,Moved Temporarily,Thread Group 1-2,text,true,,1917,123,3,3,https://classroom.google.com/,362,0,171
+1637062440328,491,HTTP Request-3,200,OK,Thread Group 1-2,text,true,,103033,252,3,3,https://accounts.google.com/ServiceLogin?service=classroom&passive=1209600&continue=https://classroom.google.com/&followup=https://classroom.google.com/&emr=1,301,0,156
+1637062440098,1199,HTTP Request,200,OK,Thread Group 1-3,text,true,,105518,623,3,3,https://accounts.google.com/ServiceLogin?service=classroom&passive=1209600&continue=https://classroom.google.com/&followup=https://classroom.google.com/&emr=1,142,0,70
+1637062440098,142,HTTP Request-0,301,Moved Permanently,Thread Group 1-3,text,true,,558,122,3,3,http://google.com/classroom,142,0,70
+1637062440241,220,HTTP Request-1,301,Moved Permanently,Thread Group 1-3,text,true,,725,126,3,3,https://www.google.com/classroom,220,0,152
+1637062440461,382,HTTP Request-2,302,Moved Temporarily,Thread Group 1-3,text,true,,1917,123,3,3,https://classroom.google.com/,382,0,152
+1637062440843,454,HTTP Request-3,200,OK,Thread Group 1-3,text,true,,102318,252,3,3,https://accounts.google.com/ServiceLogin?service=classroom&passive=1209600&continue=https://classroom.google.com/&followup=https://classroom.google.com/&emr=1,280,0,144
+1637062440597,1163,HTTP Request,200,OK,Thread Group 1-4,text,true,,105394,623,3,3,https://accounts.google.com/ServiceLogin?service=classroom&passive=1209600&continue=https://classroom.google.com/&followup=https://classroom.google.com/&emr=1,146,0,73
+1637062440597,146,HTTP Request-0,301,Moved Permanently,Thread Group 1-4,text,true,,558,122,3,3,http://google.com/classroom,146,0,73
+1637062440744,211,HTTP Request-1,301,Moved Permanently,Thread Group 1-4,text,true,,725,126,3,3,https://www.google.com/classroom,211,0,146
+1637062440956,348,HTTP Request-2,302,Moved Temporarily,Thread Group 1-4,text,true,,1917,123,3,3,https://classroom.google.com/,348,0,159
+1637062441305,455,HTTP Request-3,200,OK,Thread Group 1-4,text,true,,102194,252,3,3,https://accounts.google.com/ServiceLogin?service=classroom&passive=1209600&continue=https://classroom.google.com/&followup=https://classroom.google.com/&emr=1,277,0,148
+1637062441097,1338,HTTP Request,200,OK,Thread Group 1-5,text,true,,106291,623,3,3,https://accounts.google.com/ServiceLogin?service=classroom&passive=1209600&continue=https://classroom.google.com/&followup=https://classroom.google.com/&emr=1,140,0,70
+1637062441097,140,HTTP Request-0,301,Moved Permanently,Thread Group 1-5,text,true,,558,122,3,3,http://google.com/classroom,140,0,70
+1637062441237,241,HTTP Request-1,301,Moved Permanently,Thread Group 1-5,text,true,,725,126,3,3,https://www.google.com/classroom,241,0,165
+1637062441478,465,HTTP Request-2,302,Moved Temporarily,Thread Group 1-5,text,true,,1917,123,3,3,https://classroom.google.com/,465,0,159
+1637062441944,491,HTTP Request-3,200,OK,Thread Group 1-5,text,true,,103091,252,3,3,https://accounts.google.com/ServiceLogin?service=classroom&passive=1209600&continue=https://classroom.google.com/&followup=https://classroom.google.com/&emr=1,294,0,157
+1637062441596,1175,HTTP Request,200,OK,Thread Group 1-6,text,true,,106422,623,3,3,https://accounts.google.com/ServiceLogin?service=classroom&passive=1209600&continue=https://classroom.google.com/&followup=https://classroom.google.com/&emr=1,141,0,70
+1637062441596,141,HTTP Request-0,301,Moved Permanently,Thread Group 1-6,text,true,,558,122,3,3,http://google.com/classroom,141,0,70
+1637062441737,217,HTTP Request-1,301,Moved Permanently,Thread Group 1-6,text,true,,725,126,3,3,https://www.google.com/classroom,217,0,149
+1637062441955,339,HTTP Request-2,302,Moved Temporarily,Thread Group 1-6,text,true,,1917,123,3,3,https://classroom.google.com/,339,0,153
+1637062442294,477,HTTP Request-3,200,OK,Thread Group 1-6,text,true,,103222,252,3,3,https://accounts.google.com/ServiceLogin?service=classroom&passive=1209600&continue=https://classroom.google.com/&followup=https://classroom.google.com/&emr=1,289,0,151
+1637062442096,1178,HTTP Request,200,OK,Thread Group 1-7,text,true,,105478,623,3,3,https://accounts.google.com/ServiceLogin?service=classroom&passive=1209600&continue=https://classroom.google.com/&followup=https://classroom.google.com/&emr=1,142,0,70
+1637062442096,142,HTTP Request-0,301,Moved Permanently,Thread Group 1-7,text,true,,558,122,3,3,http://google.com/classroom,142,0,70
+1637062442238,235,HTTP Request-1,301,Moved Permanently,Thread Group 1-7,text,true,,725,126,3,3,https://www.google.com/classroom,235,0,160
+1637062442474,325,HTTP Request-2,302,Moved Temporarily,Thread Group 1-7,text,true,,1917,123,3,3,https://classroom.google.com/,324,0,143
+1637062442800,474,HTTP Request-3,200,OK,Thread Group 1-7,text,true,,102278,252,3,3,https://accounts.google.com/ServiceLogin?service=classroom&passive=1209600&continue=https://classroom.google.com/&followup=https://classroom.google.com/&emr=1,290,0,156
+1637062442595,1666,HTTP Request,200,OK,Thread Group 1-8,text,true,,105454,623,4,4,https://accounts.google.com/ServiceLogin?service=classroom&passive=1209600&continue=https://classroom.google.com/&followup=https://classroom.google.com/&emr=1,146,0,72
+1637062442595,146,HTTP Request-0,301,Moved Permanently,Thread Group 1-8,text,true,,558,122,4,4,http://google.com/classroom,146,0,72
+1637062442742,235,HTTP Request-1,301,Moved Permanently,Thread Group 1-8,text,true,,725,126,4,4,https://www.google.com/classroom,235,0,160
+1637062442978,817,HTTP Request-2,302,Moved Temporarily,Thread Group 1-8,text,true,,1917,123,4,4,https://classroom.google.com/,817,0,155
+1637062443795,466,HTTP Request-3,200,OK,Thread Group 1-8,text,true,,102254,252,4,4,https://accounts.google.com/ServiceLogin?service=classroom&passive=1209600&continue=https://classroom.google.com/&followup=https://classroom.google.com/&emr=1,287,0,151
+1637062443096,1310,HTTP Request,200,OK,Thread Group 1-9,text,true,,106401,623,3,3,https://accounts.google.com/ServiceLogin?service=classroom&passive=1209600&continue=https://classroom.google.com/&followup=https://classroom.google.com/&emr=1,142,0,71
+1637062443096,142,HTTP Request-0,301,Moved Permanently,Thread Group 1-9,text,true,,558,122,3,3,http://google.com/classroom,142,0,71
+1637062443239,224,HTTP Request-1,301,Moved Permanently,Thread Group 1-9,text,true,,725,126,3,3,https://www.google.com/classroom,224,0,152
+1637062443464,460,HTTP Request-2,302,Moved Temporarily,Thread Group 1-9,text,true,,1917,123,3,3,https://classroom.google.com/,460,0,154
+1637062443924,482,HTTP Request-3,200,OK,Thread Group 1-9,text,true,,103201,252,3,3,https://accounts.google.com/ServiceLogin?service=classroom&passive=1209600&continue=https://classroom.google.com/&followup=https://classroom.google.com/&emr=1,300,0,154
+1637062443596,1232,HTTP Request,200,OK,Thread Group 1-10,text,true,,105562,623,3,3,https://accounts.google.com/ServiceLogin?service=classroom&passive=1209600&continue=https://classroom.google.com/&followup=https://classroom.google.com/&emr=1,139,0,70
+1637062443596,140,HTTP Request-0,301,Moved Permanently,Thread Group 1-10,text,true,,558,122,3,3,http://google.com/classroom,139,0,70
+1637062443736,228,HTTP Request-1,301,Moved Permanently,Thread Group 1-10,text,true,,725,126,3,3,https://www.google.com/classroom,228,0,156
+1637062443965,364,HTTP Request-2,302,Moved Temporarily,Thread Group 1-10,text,true,,1917,123,3,3,https://classroom.google.com/,364,0,153
+1637062444329,499,HTTP Request-3,200,OK,Thread Group 1-10,text,true,,102362,252,3,3,https://accounts.google.com/ServiceLogin?service=classroom&passive=1209600&continue=https://classroom.google.com/&followup=https://classroom.google.com/&emr=1,303,0,162
+1637062444598,1146,HTTP Request,200,OK,Thread Group 1-12,text,true,,105590,623,4,4,https://accounts.google.com/ServiceLogin?service=classroom&passive=1209600&continue=https://classroom.google.com/&followup=https://classroom.google.com/&emr=1,134,0,67
+1637062444598,134,HTTP Request-0,301,Moved Permanently,Thread Group 1-12,text,true,,558,122,4,4,http://google.com/classroom,134,0,67
+1637062444732,223,HTTP Request-1,301,Moved Permanently,Thread Group 1-12,text,true,,725,126,4,4,https://www.google.com/classroom,223,0,155
+1637062444956,332,HTTP Request-2,302,Moved Temporarily,Thread Group 1-12,text,true,,1917,123,4,4,https://classroom.google.com/,331,0,146
+1637062445288,456,HTTP Request-3,200,OK,Thread Group 1-12,text,true,,102390,252,4,4,https://accounts.google.com/ServiceLogin?service=classroom&passive=1209600&continue=https://classroom.google.com/&followup=https://classroom.google.com/&emr=1,274,0,143
+1637062444097,1898,HTTP Request,200,OK,Thread Group 1-11,text,true,,106545,623,3,3,https://accounts.google.com/ServiceLogin?service=classroom&passive=1209600&continue=https://classroom.google.com/&followup=https://classroom.google.com/&emr=1,143,0,72
+1637062444097,143,HTTP Request-0,301,Moved Permanently,Thread Group 1-11,text,true,,558,122,3,3,http://google.com/classroom,143,0,72
+1637062444240,255,HTTP Request-1,301,Moved Permanently,Thread Group 1-11,text,true,,725,126,3,3,https://www.google.com/classroom,255,0,167
+1637062444496,999,HTTP Request-2,302,Moved Temporarily,Thread Group 1-11,text,true,,1917,123,3,3,https://classroom.google.com/,999,0,152
+1637062445496,499,HTTP Request-3,200,OK,Thread Group 1-11,text,true,,103345,252,3,3,https://accounts.google.com/ServiceLogin?service=classroom&passive=1209600&continue=https://classroom.google.com/&followup=https://classroom.google.com/&emr=1,301,0,161
+1637062445097,1212,HTTP Request,200,OK,Thread Group 1-13,text,true,,106329,623,3,3,https://accounts.google.com/ServiceLogin?service=classroom&passive=1209600&continue=https://classroom.google.com/&followup=https://classroom.google.com/&emr=1,144,0,71
+1637062445097,144,HTTP Request-0,301,Moved Permanently,Thread Group 1-13,text,true,,558,122,3,3,http://google.com/classroom,144,0,71
+1637062445242,230,HTTP Request-1,301,Moved Permanently,Thread Group 1-13,text,true,,725,126,3,3,https://www.google.com/classroom,230,0,157
+1637062445473,369,HTTP Request-2,302,Moved Temporarily,Thread Group 1-13,text,true,,1917,123,3,3,https://classroom.google.com/,369,0,151
+1637062445842,467,HTTP Request-3,200,OK,Thread Group 1-13,text,true,,103129,252,3,3,https://accounts.google.com/ServiceLogin?service=classroom&passive=1209600&continue=https://classroom.google.com/&followup=https://classroom.google.com/&emr=1,280,0,148
+1637062445596,1168,HTTP Request,200,OK,Thread Group 1-14,text,true,,106369,623,3,3,https://accounts.google.com/ServiceLogin?service=classroom&passive=1209600&continue=https://classroom.google.com/&followup=https://classroom.google.com/&emr=1,130,0,65
+1637062445596,130,HTTP Request-0,301,Moved Permanently,Thread Group 1-14,text,true,,558,122,3,3,http://google.com/classroom,130,0,65
+1637062445727,226,HTTP Request-1,301,Moved Permanently,Thread Group 1-14,text,true,,725,126,3,3,https://www.google.com/classroom,226,0,151
+1637062445953,337,HTTP Request-2,302,Moved Temporarily,Thread Group 1-14,text,true,,1917,123,3,3,https://classroom.google.com/,337,0,149
+1637062446290,474,HTTP Request-3,200,OK,Thread Group 1-14,text,true,,103169,252,3,3,https://accounts.google.com/ServiceLogin?service=classroom&passive=1209600&continue=https://classroom.google.com/&followup=https://classroom.google.com/&emr=1,291,0,154
+1637062446094,1219,HTTP Request,200,OK,Thread Group 1-15,text,true,,106349,623,3,3,https://accounts.google.com/ServiceLogin?service=classroom&passive=1209600&continue=https://classroom.google.com/&followup=https://classroom.google.com/&emr=1,143,0,71
+1637062446094,143,HTTP Request-0,301,Moved Permanently,Thread Group 1-15,text,true,,558,122,3,3,http://google.com/classroom,143,0,71
+1637062446238,229,HTTP Request-1,301,Moved Permanently,Thread Group 1-15,text,true,,725,126,3,3,https://www.google.com/classroom,229,0,156
+1637062446467,346,HTTP Request-2,302,Moved Temporarily,Thread Group 1-15,text,true,,1917,123,3,3,https://classroom.google.com/,346,0,159
+1637062446814,499,HTTP Request-3,200,OK,Thread Group 1-15,text,true,,103149,252,3,3,https://accounts.google.com/ServiceLogin?service=classroom&passive=1209600&continue=https://classroom.google.com/&followup=https://classroom.google.com/&emr=1,299,0,163
+1637062446596,1212,HTTP Request,200,OK,Thread Group 1-16,text,true,,106361,623,3,3,https://accounts.google.com/ServiceLogin?service=classroom&passive=1209600&continue=https://classroom.google.com/&followup=https://classroom.google.com/&emr=1,140,0,68
+1637062446596,140,HTTP Request-0,301,Moved Permanently,Thread Group 1-16,text,true,,558,122,3,3,http://google.com/classroom,140,0,68
+1637062446736,231,HTTP Request-1,301,Moved Permanently,Thread Group 1-16,text,true,,725,126,3,3,https://www.google.com/classroom,231,0,160
+1637062446967,346,HTTP Request-2,302,Moved Temporarily,Thread Group 1-16,text,true,,1917,123,3,3,https://classroom.google.com/,346,0,159
+1637062447313,495,HTTP Request-3,200,OK,Thread Group 1-16,text,true,,103161,252,3,3,https://accounts.google.com/ServiceLogin?service=classroom&passive=1209600&continue=https://classroom.google.com/&followup=https://classroom.google.com/&emr=1,294,0,159
+1637062447096,1279,HTTP Request,200,OK,Thread Group 1-17,text,true,,106257,623,3,3,https://accounts.google.com/ServiceLogin?service=classroom&passive=1209600&continue=https://classroom.google.com/&followup=https://classroom.google.com/&emr=1,142,0,71
+1637062447096,142,HTTP Request-0,301,Moved Permanently,Thread Group 1-17,text,true,,558,122,3,3,http://google.com/classroom,142,0,71
+1637062447238,236,HTTP Request-1,301,Moved Permanently,Thread Group 1-17,text,true,,725,126,3,3,https://www.google.com/classroom,236,0,161
+1637062447474,425,HTTP Request-2,302,Moved Temporarily,Thread Group 1-17,text,true,,1917,123,3,3,https://classroom.google.com/,424,0,166
+1637062447899,476,HTTP Request-3,200,OK,Thread Group 1-17,text,true,,103057,252,3,3,https://accounts.google.com/ServiceLogin?service=classroom&passive=1209600&continue=https://classroom.google.com/&followup=https://classroom.google.com/&emr=1,282,0,154
+1637062447595,1183,HTTP Request,200,OK,Thread Group 1-18,text,true,,106269,623,3,3,https://accounts.google.com/ServiceLogin?service=classroom&passive=1209600&continue=https://classroom.google.com/&followup=https://classroom.google.com/&emr=1,142,0,71
+1637062447595,142,HTTP Request-0,301,Moved Permanently,Thread Group 1-18,text,true,,558,122,3,3,http://google.com/classroom,142,0,71
+1637062447737,225,HTTP Request-1,301,Moved Permanently,Thread Group 1-18,text,true,,725,126,3,3,https://www.google.com/classroom,225,0,153
+1637062447962,335,HTTP Request-2,302,Moved Temporarily,Thread Group 1-18,text,true,,1917,123,3,3,https://classroom.google.com/,334,0,150
+1637062448298,480,HTTP Request-3,200,OK,Thread Group 1-18,text,true,,103069,252,3,3,https://accounts.google.com/ServiceLogin?service=classroom&passive=1209600&continue=https://classroom.google.com/&followup=https://classroom.google.com/&emr=1,294,0,161
+1637062448096,1207,HTTP Request,200,OK,Thread Group 1-19,text,true,,105514,623,3,3,https://accounts.google.com/ServiceLogin?service=classroom&passive=1209600&continue=https://classroom.google.com/&followup=https://classroom.google.com/&emr=1,143,0,70
+1637062448096,143,HTTP Request-0,301,Moved Permanently,Thread Group 1-19,text,true,,558,122,3,3,http://google.com/classroom,143,0,70
+1637062448239,230,HTTP Request-1,301,Moved Permanently,Thread Group 1-19,text,true,,725,126,3,3,https://www.google.com/classroom,230,0,155
+1637062448469,337,HTTP Request-2,302,Moved Temporarily,Thread Group 1-19,text,true,,1917,123,3,3,https://classroom.google.com/,337,0,150
+1637062448806,497,HTTP Request-3,200,OK,Thread Group 1-19,text,true,,102314,252,3,3,https://accounts.google.com/ServiceLogin?service=classroom&passive=1209600&continue=https://classroom.google.com/&followup=https://classroom.google.com/&emr=1,298,0,164
+1637062448596,1231,HTTP Request,200,OK,Thread Group 1-20,text,true,,106249,623,3,3,https://accounts.google.com/ServiceLogin?service=classroom&passive=1209600&continue=https://classroom.google.com/&followup=https://classroom.google.com/&emr=1,142,0,71
+1637062448596,142,HTTP Request-0,301,Moved Permanently,Thread Group 1-20,text,true,,558,122,3,3,http://google.com/classroom,142,0,71
+1637062448738,223,HTTP Request-1,301,Moved Permanently,Thread Group 1-20,text,true,,725,126,3,3,https://www.google.com/classroom,223,0,153
+1637062448961,361,HTTP Request-2,302,Moved Temporarily,Thread Group 1-20,text,true,,1917,123,3,3,https://classroom.google.com/,361,0,160
+1637062449323,504,HTTP Request-3,200,OK,Thread Group 1-20,text,true,,103049,252,3,3,https://accounts.google.com/ServiceLogin?service=classroom&passive=1209600&continue=https://classroom.google.com/&followup=https://classroom.google.com/&emr=1,314,0,158
+1637062449097,1210,HTTP Request,200,OK,Thread Group 1-21,text,true,,106115,623,3,3,https://accounts.google.com/ServiceLogin?service=classroom&passive=1209600&continue=https://classroom.google.com/&followup=https://classroom.google.com/&emr=1,141,0,71
+1637062449097,141,HTTP Request-0,301,Moved Permanently,Thread Group 1-21,text,true,,559,122,3,3,http://google.com/classroom,141,0,71
+1637062449239,229,HTTP Request-1,301,Moved Permanently,Thread Group 1-21,text,true,,726,126,3,3,https://www.google.com/classroom,229,0,156
+1637062449469,346,HTTP Request-2,302,Moved Temporarily,Thread Group 1-21,text,true,,1917,123,3,3,https://classroom.google.com/,346,0,161
+1637062449816,491,HTTP Request-3,200,OK,Thread Group 1-21,text,true,,102913,252,3,3,https://accounts.google.com/ServiceLogin?service=classroom&passive=1209600&continue=https://classroom.google.com/&followup=https://classroom.google.com/&emr=1,302,0,153
+1637062449596,1403,HTTP Request,200,OK,Thread Group 1-22,text,true,,105480,623,3,3,https://accounts.google.com/ServiceLogin?service=classroom&passive=1209600&continue=https://classroom.google.com/&followup=https://classroom.google.com/&emr=1,143,0,71
+1637062449596,143,HTTP Request-0,301,Moved Permanently,Thread Group 1-22,text,true,,559,122,3,3,http://google.com/classroom,143,0,71
+1637062449739,247,HTTP Request-1,301,Moved Permanently,Thread Group 1-22,text,true,,726,126,3,3,https://www.google.com/classroom,247,0,171
+1637062449986,532,HTTP Request-2,302,Moved Temporarily,Thread Group 1-22,text,true,,1917,123,3,3,https://classroom.google.com/,532,0,152
+1637062450518,481,HTTP Request-3,200,OK,Thread Group 1-22,text,true,,102278,252,3,3,https://accounts.google.com/ServiceLogin?service=classroom&passive=1209600&continue=https://classroom.google.com/&followup=https://classroom.google.com/&emr=1,294,0,154
+1637062450095,1342,HTTP Request,200,OK,Thread Group 1-23,text,true,,106397,623,3,3,https://accounts.google.com/ServiceLogin?service=classroom&passive=1209600&continue=https://classroom.google.com/&followup=https://classroom.google.com/&emr=1,139,0,69
+1637062450095,139,HTTP Request-0,301,Moved Permanently,Thread Group 1-23,text,true,,559,122,3,3,http://google.com/classroom,139,0,69
+1637062450234,224,HTTP Request-1,301,Moved Permanently,Thread Group 1-23,text,true,,726,126,3,3,https://www.google.com/classroom,224,0,154
+1637062450458,497,HTTP Request-2,302,Moved Temporarily,Thread Group 1-23,text,true,,1917,123,3,3,https://classroom.google.com/,496,0,146
+1637062450955,482,HTTP Request-3,200,OK,Thread Group 1-23,text,true,,103195,252,3,3,https://accounts.google.com/ServiceLogin?service=classroom&passive=1209600&continue=https://classroom.google.com/&followup=https://classroom.google.com/&emr=1,300,0,149
+1637062450596,1187,HTTP Request,200,OK,Thread Group 1-24,text,true,,106267,623,3,3,https://accounts.google.com/ServiceLogin?service=classroom&passive=1209600&continue=https://classroom.google.com/&followup=https://classroom.google.com/&emr=1,137,0,68
+1637062450596,137,HTTP Request-0,301,Moved Permanently,Thread Group 1-24,text,true,,559,122,3,3,http://google.com/classroom,137,0,68
+1637062450734,224,HTTP Request-1,301,Moved Permanently,Thread Group 1-24,text,true,,726,126,3,3,https://www.google.com/classroom,224,0,155
+1637062450958,346,HTTP Request-2,302,Moved Temporarily,Thread Group 1-24,text,true,,1917,123,3,3,https://classroom.google.com/,346,0,159
+1637062451305,478,HTTP Request-3,200,OK,Thread Group 1-24,text,true,,103065,252,3,3,https://accounts.google.com/ServiceLogin?service=classroom&passive=1209600&continue=https://classroom.google.com/&followup=https://classroom.google.com/&emr=1,288,0,156
+1637062451096,1560,HTTP Request,200,OK,Thread Group 1-25,text,true,,106241,623,4,4,https://accounts.google.com/ServiceLogin?service=classroom&passive=1209600&continue=https://classroom.google.com/&followup=https://classroom.google.com/&emr=1,137,0,67
+1637062451096,137,HTTP Request-0,301,Moved Permanently,Thread Group 1-25,text,true,,559,122,4,4,http://google.com/classroom,137,0,67
+1637062451233,221,HTTP Request-1,301,Moved Permanently,Thread Group 1-25,text,true,,726,126,4,4,https://www.google.com/classroom,221,0,150
+1637062451454,749,HTTP Request-2,302,Moved Temporarily,Thread Group 1-25,text,true,,1917,123,4,4,https://classroom.google.com/,749,0,159
+1637062452204,452,HTTP Request-3,200,OK,Thread Group 1-25,text,true,,103039,252,4,4,https://accounts.google.com/ServiceLogin?service=classroom&passive=1209600&continue=https://classroom.google.com/&followup=https://classroom.google.com/&emr=1,276,0,144
+1637062451596,1300,HTTP Request,200,OK,Thread Group 1-26,text,true,,105520,623,3,3,https://accounts.google.com/ServiceLogin?service=classroom&passive=1209600&continue=https://classroom.google.com/&followup=https://classroom.google.com/&emr=1,147,0,72
+1637062451596,147,HTTP Request-0,301,Moved Permanently,Thread Group 1-26,text,true,,559,122,3,3,http://google.com/classroom,147,0,72
+1637062451744,228,HTTP Request-1,301,Moved Permanently,Thread Group 1-26,text,true,,726,126,3,3,https://www.google.com/classroom,228,0,155
+1637062451972,442,HTTP Request-2,302,Moved Temporarily,Thread Group 1-26,text,true,,1917,123,3,3,https://classroom.google.com/,441,0,155
+1637062452414,482,HTTP Request-3,200,OK,Thread Group 1-26,text,true,,102318,252,3,3,https://accounts.google.com/ServiceLogin?service=classroom&passive=1209600&continue=https://classroom.google.com/&followup=https://classroom.google.com/&emr=1,290,0,156
+1637062452095,1226,HTTP Request,200,OK,Thread Group 1-27,text,true,,105436,623,3,3,https://accounts.google.com/ServiceLogin?service=classroom&passive=1209600&continue=https://classroom.google.com/&followup=https://classroom.google.com/&emr=1,143,0,71
+1637062452095,143,HTTP Request-0,301,Moved Permanently,Thread Group 1-27,text,true,,559,122,3,3,http://google.com/classroom,143,0,71
+1637062452238,227,HTTP Request-1,301,Moved Permanently,Thread Group 1-27,text,true,,726,126,3,3,https://www.google.com/classroom,227,0,155
+1637062452465,355,HTTP Request-2,302,Moved Temporarily,Thread Group 1-27,text,true,,1917,123,3,3,https://classroom.google.com/,355,0,159
+1637062452820,501,HTTP Request-3,200,OK,Thread Group 1-27,text,true,,102234,252,3,3,https://accounts.google.com/ServiceLogin?service=classroom&passive=1209600&continue=https://classroom.google.com/&followup=https://classroom.google.com/&emr=1,303,0,163
+1637062453097,1298,HTTP Request,200,OK,Thread Group 1-29,text,true,,105608,623,4,4,https://accounts.google.com/ServiceLogin?service=classroom&passive=1209600&continue=https://classroom.google.com/&followup=https://classroom.google.com/&emr=1,148,0,73
+1637062453097,148,HTTP Request-0,301,Moved Permanently,Thread Group 1-29,text,true,,559,122,4,4,http://google.com/classroom,148,0,73
+1637062453246,229,HTTP Request-1,301,Moved Permanently,Thread Group 1-29,text,true,,726,126,4,4,https://www.google.com/classroom,229,0,157
+1637062453475,425,HTTP Request-2,302,Moved Temporarily,Thread Group 1-29,text,true,,1917,123,4,4,https://classroom.google.com/,424,0,157
+1637062453900,495,HTTP Request-3,200,OK,Thread Group 1-29,text,true,,102406,252,4,4,https://accounts.google.com/ServiceLogin?service=classroom&passive=1209600&continue=https://classroom.google.com/&followup=https://classroom.google.com/&emr=1,300,0,158
+1637062452595,1877,HTTP Request,200,OK,Thread Group 1-28,text,true,,105290,623,3,3,https://accounts.google.com/ServiceLogin?service=classroom&passive=1209600&continue=https://classroom.google.com/&followup=https://classroom.google.com/&emr=1,140,0,70
+1637062452595,140,HTTP Request-0,301,Moved Permanently,Thread Group 1-28,text,true,,559,122,3,3,http://google.com/classroom,140,0,70
+1637062452736,225,HTTP Request-1,301,Moved Permanently,Thread Group 1-28,text,true,,726,126,3,3,https://www.google.com/classroom,225,0,152
+1637062452961,1040,HTTP Request-2,302,Moved Temporarily,Thread Group 1-28,text,true,,1917,123,3,3,https://classroom.google.com/,1040,0,165
+1637062454001,471,HTTP Request-3,200,OK,Thread Group 1-28,text,true,,102088,252,3,3,https://accounts.google.com/ServiceLogin?service=classroom&passive=1209600&continue=https://classroom.google.com/&followup=https://classroom.google.com/&emr=1,288,0,152
+1637062453596,1327,HTTP Request,200,OK,Thread Group 1-30,text,true,,106363,623,3,3,https://accounts.google.com/ServiceLogin?service=classroom&passive=1209600&continue=https://classroom.google.com/&followup=https://classroom.google.com/&emr=1,138,0,69
+1637062453596,138,HTTP Request-0,301,Moved Permanently,Thread Group 1-30,text,true,,559,122,3,3,http://google.com/classroom,138,0,69
+1637062453734,221,HTTP Request-1,301,Moved Permanently,Thread Group 1-30,text,true,,726,126,3,3,https://www.google.com/classroom,221,0,147
+1637062453955,490,HTTP Request-2,302,Moved Temporarily,Thread Group 1-30,text,true,,1917,123,3,3,https://classroom.google.com/,490,0,150
+1637062454445,478,HTTP Request-3,200,OK,Thread Group 1-30,text,true,,103161,252,3,3,https://accounts.google.com/ServiceLogin?service=classroom&passive=1209600&continue=https://classroom.google.com/&followup=https://classroom.google.com/&emr=1,288,0,156
+1637062454594,1315,HTTP Request,200,OK,Thread Group 1-32,text,true,,106363,623,4,4,https://accounts.google.com/ServiceLogin?service=classroom&passive=1209600&continue=https://classroom.google.com/&followup=https://classroom.google.com/&emr=1,139,0,69
+1637062454594,139,HTTP Request-0,301,Moved Permanently,Thread Group 1-32,text,true,,559,122,4,4,http://google.com/classroom,139,0,69
+1637062454733,227,HTTP Request-1,301,Moved Permanently,Thread Group 1-32,text,true,,726,126,4,4,https://www.google.com/classroom,227,0,154
+1637062454961,491,HTTP Request-2,302,Moved Temporarily,Thread Group 1-32,text,true,,1917,123,4,4,https://classroom.google.com/,490,0,151
+1637062455452,457,HTTP Request-3,200,OK,Thread Group 1-32,text,true,,103161,252,4,4,https://accounts.google.com/ServiceLogin?service=classroom&passive=1209600&continue=https://classroom.google.com/&followup=https://classroom.google.com/&emr=1,276,0,146
+1637062454095,1851,HTTP Request,200,OK,Thread Group 1-31,text,true,,105412,623,3,3,https://accounts.google.com/ServiceLogin?service=classroom&passive=1209600&continue=https://classroom.google.com/&followup=https://classroom.google.com/&emr=1,137,0,69
+1637062454095,137,HTTP Request-0,301,Moved Permanently,Thread Group 1-31,text,true,,559,122,3,3,http://google.com/classroom,137,0,69
+1637062454233,234,HTTP Request-1,301,Moved Permanently,Thread Group 1-31,text,true,,726,126,3,3,https://www.google.com/classroom,234,0,160
+1637062454467,989,HTTP Request-2,302,Moved Temporarily,Thread Group 1-31,text,true,,1917,123,3,3,https://classroom.google.com/,988,0,150
+1637062455456,490,HTTP Request-3,200,OK,Thread Group 1-31,text,true,,102210,252,3,3,https://accounts.google.com/ServiceLogin?service=classroom&passive=1209600&continue=https://classroom.google.com/&followup=https://classroom.google.com/&emr=1,294,0,156
+1637062455095,1251,HTTP Request,200,OK,Thread Group 1-33,text,true,,105536,623,3,3,https://accounts.google.com/ServiceLogin?service=classroom&passive=1209600&continue=https://classroom.google.com/&followup=https://classroom.google.com/&emr=1,143,0,70
+1637062455095,143,HTTP Request-0,301,Moved Permanently,Thread Group 1-33,text,true,,559,122,3,3,http://google.com/classroom,143,0,70
+1637062455239,233,HTTP Request-1,301,Moved Permanently,Thread Group 1-33,text,true,,726,126,3,3,https://www.google.com/classroom,233,0,159
+1637062455473,360,HTTP Request-2,302,Moved Temporarily,Thread Group 1-33,text,true,,1917,123,3,3,https://classroom.google.com/,360,0,144
+1637062455834,512,HTTP Request-3,200,OK,Thread Group 1-33,text,true,,102334,252,3,3,https://accounts.google.com/ServiceLogin?service=classroom&passive=1209600&continue=https://classroom.google.com/&followup=https://classroom.google.com/&emr=1,308,0,169
+1637062455599,1833,HTTP Request,200,OK,Thread Group 1-34,text,true,,106349,623,4,4,https://accounts.google.com/ServiceLogin?service=classroom&passive=1209600&continue=https://classroom.google.com/&followup=https://classroom.google.com/&emr=1,145,0,73
+1637062455599,145,HTTP Request-0,301,Moved Permanently,Thread Group 1-34,text,true,,559,122,4,4,http://google.com/classroom,145,0,73
+1637062455744,223,HTTP Request-1,301,Moved Permanently,Thread Group 1-34,text,true,,726,126,4,4,https://www.google.com/classroom,223,0,152
+1637062455967,995,HTTP Request-2,302,Moved Temporarily,Thread Group 1-34,text,true,,1917,123,4,4,https://classroom.google.com/,995,0,159
+1637062456962,470,HTTP Request-3,200,OK,Thread Group 1-34,text,true,,103147,252,4,4,https://accounts.google.com/ServiceLogin?service=classroom&passive=1209600&continue=https://classroom.google.com/&followup=https://classroom.google.com/&emr=1,285,0,153
+1637062456097,1335,HTTP Request,200,OK,Thread Group 1-35,text,true,,106437,623,4,4,https://accounts.google.com/ServiceLogin?service=classroom&passive=1209600&continue=https://classroom.google.com/&followup=https://classroom.google.com/&emr=1,140,0,69
+1637062456097,140,HTTP Request-0,301,Moved Permanently,Thread Group 1-35,text,true,,559,122,4,4,http://google.com/classroom,140,0,69
+1637062456237,230,HTTP Request-1,301,Moved Permanently,Thread Group 1-35,text,true,,726,126,4,4,https://www.google.com/classroom,230,0,159
+1637062456467,493,HTTP Request-2,302,Moved Temporarily,Thread Group 1-35,text,true,,1917,123,4,4,https://classroom.google.com/,493,0,159
+1637062456960,472,HTTP Request-3,200,OK,Thread Group 1-35,text,true,,103235,252,4,4,https://accounts.google.com/ServiceLogin?service=classroom&passive=1209600&continue=https://classroom.google.com/&followup=https://classroom.google.com/&emr=1,287,0,155
+1637062456595,1200,HTTP Request,200,OK,Thread Group 1-36,text,true,,106171,623,3,3,https://accounts.google.com/ServiceLogin?service=classroom&passive=1209600&continue=https://classroom.google.com/&followup=https://classroom.google.com/&emr=1,145,0,71
+1637062456595,145,HTTP Request-0,301,Moved Permanently,Thread Group 1-36,text,true,,559,122,3,3,http://google.com/classroom,145,0,71
+1637062456741,218,HTTP Request-1,301,Moved Permanently,Thread Group 1-36,text,true,,726,126,3,3,https://www.google.com/classroom,218,0,147
+1637062456960,342,HTTP Request-2,302,Moved Temporarily,Thread Group 1-36,text,true,,1917,123,3,3,https://classroom.google.com/,342,0,155
+1637062457303,492,HTTP Request-3,200,OK,Thread Group 1-36,text,true,,102969,252,3,3,https://accounts.google.com/ServiceLogin?service=classroom&passive=1209600&continue=https://classroom.google.com/&followup=https://classroom.google.com/&emr=1,294,0,161
+1637062457096,1660,HTTP Request,200,OK,Thread Group 1-37,text,true,,106451,623,4,4,https://accounts.google.com/ServiceLogin?service=classroom&passive=1209600&continue=https://classroom.google.com/&followup=https://classroom.google.com/&emr=1,139,0,69
+1637062457096,139,HTTP Request-0,301,Moved Permanently,Thread Group 1-37,text,true,,559,122,4,4,http://google.com/classroom,139,0,69
+1637062457235,235,HTTP Request-1,301,Moved Permanently,Thread Group 1-37,text,true,,726,126,4,4,https://www.google.com/classroom,235,0,160
+1637062457470,831,HTTP Request-2,302,Moved Temporarily,Thread Group 1-37,text,true,,1917,123,4,4,https://classroom.google.com/,831,0,152
+1637062458301,455,HTTP Request-3,200,OK,Thread Group 1-37,text,true,,103249,252,4,4,https://accounts.google.com/ServiceLogin?service=classroom&passive=1209600&continue=https://classroom.google.com/&followup=https://classroom.google.com/&emr=1,272,0,144
+1637062457595,1239,HTTP Request,200,OK,Thread Group 1-38,text,true,,105440,623,3,3,https://accounts.google.com/ServiceLogin?service=classroom&passive=1209600&continue=https://classroom.google.com/&followup=https://classroom.google.com/&emr=1,137,0,67
+1637062457595,137,HTTP Request-0,301,Moved Permanently,Thread Group 1-38,text,true,,559,122,3,3,http://google.com/classroom,137,0,67
+1637062457733,243,HTTP Request-1,301,Moved Permanently,Thread Group 1-38,text,true,,726,126,3,3,https://www.google.com/classroom,243,0,168
+1637062457977,344,HTTP Request-2,302,Moved Temporarily,Thread Group 1-38,text,true,,1917,123,3,3,https://classroom.google.com/,344,0,157
+1637062458322,512,HTTP Request-3,200,OK,Thread Group 1-38,text,true,,102238,252,3,3,https://accounts.google.com/ServiceLogin?service=classroom&passive=1209600&continue=https://classroom.google.com/&followup=https://classroom.google.com/&emr=1,316,0,161
+1637062458095,1639,HTTP Request,200,OK,Thread Group 1-39,text,true,,106339,623,4,4,https://accounts.google.com/ServiceLogin?service=classroom&passive=1209600&continue=https://classroom.google.com/&followup=https://classroom.google.com/&emr=1,141,0,71
+1637062458095,141,HTTP Request-0,301,Moved Permanently,Thread Group 1-39,text,true,,559,122,4,4,http://google.com/classroom,141,0,71
+1637062458236,223,HTTP Request-1,301,Moved Permanently,Thread Group 1-39,text,true,,726,126,4,4,https://www.google.com/classroom,223,0,153
+1637062458460,810,HTTP Request-2,302,Moved Temporarily,Thread Group 1-39,text,true,,1917,123,4,4,https://classroom.google.com/,809,0,148
+1637062459270,464,HTTP Request-3,200,OK,Thread Group 1-39,text,true,,103137,252,4,4,https://accounts.google.com/ServiceLogin?service=classroom&passive=1209600&continue=https://classroom.google.com/&followup=https://classroom.google.com/&emr=1,282,0,149
+1637062458596,1739,HTTP Request,200,OK,Thread Group 1-40,text,true,,107271,623,4,4,https://accounts.google.com/ServiceLogin?service=classroom&passive=1209600&continue=https://classroom.google.com/&followup=https://classroom.google.com/&emr=1,141,0,68
+1637062458596,141,HTTP Request-0,301,Moved Permanently,Thread Group 1-40,text,true,,559,122,4,4,http://google.com/classroom,141,0,68
+1637062458738,236,HTTP Request-1,301,Moved Permanently,Thread Group 1-40,text,true,,726,126,4,4,https://www.google.com/classroom,236,0,162
+1637062458975,881,HTTP Request-2,302,Moved Temporarily,Thread Group 1-40,text,true,,1917,123,4,4,https://classroom.google.com/,881,0,160
+1637062459856,479,HTTP Request-3,200,OK,Thread Group 1-40,text,true,,104069,252,4,4,https://accounts.google.com/ServiceLogin?service=classroom&passive=1209600&continue=https://classroom.google.com/&followup=https://classroom.google.com/&emr=1,293,0,157
+1637062459094,1493,HTTP Request,200,OK,Thread Group 1-41,text,true,,106413,623,3,3,https://accounts.google.com/ServiceLogin?service=classroom&passive=1209600&continue=https://classroom.google.com/&followup=https://classroom.google.com/&emr=1,151,0,75
+1637062459094,151,HTTP Request-0,301,Moved Permanently,Thread Group 1-41,text,true,,559,122,3,3,http://google.com/classroom,151,0,75
+1637062459245,218,HTTP Request-1,301,Moved Permanently,Thread Group 1-41,text,true,,726,126,3,3,https://www.google.com/classroom,218,0,151
+1637062459464,663,HTTP Request-2,302,Moved Temporarily,Thread Group 1-41,text,true,,1917,123,3,3,https://classroom.google.com/,663,0,153
+1637062460128,459,HTTP Request-3,200,OK,Thread Group 1-41,text,true,,103211,252,3,3,https://accounts.google.com/ServiceLogin?service=classroom&passive=1209600&continue=https://classroom.google.com/&followup=https://classroom.google.com/&emr=1,280,0,144
+1637062459594,1193,HTTP Request,200,OK,Thread Group 1-42,text,true,,105368,623,3,3,https://accounts.google.com/ServiceLogin?service=classroom&passive=1209600&continue=https://classroom.google.com/&followup=https://classroom.google.com/&emr=1,147,0,74
+1637062459594,147,HTTP Request-0,301,Moved Permanently,Thread Group 1-42,text,true,,559,122,3,3,http://google.com/classroom,147,0,74
+1637062459742,221,HTTP Request-1,301,Moved Permanently,Thread Group 1-42,text,true,,726,126,3,3,https://www.google.com/classroom,221,0,148
+1637062459964,340,HTTP Request-2,302,Moved Temporarily,Thread Group 1-42,text,true,,1917,123,3,3,https://classroom.google.com/,339,0,144
+1637062460304,483,HTTP Request-3,200,OK,Thread Group 1-42,text,true,,102166,252,3,3,https://accounts.google.com/ServiceLogin?service=classroom&passive=1209600&continue=https://classroom.google.com/&followup=https://classroom.google.com/&emr=1,296,0,152
+1637062460097,1169,HTTP Request,200,OK,Thread Group 1-43,text,true,,106391,623,3,3,https://accounts.google.com/ServiceLogin?service=classroom&passive=1209600&continue=https://classroom.google.com/&followup=https://classroom.google.com/&emr=1,141,0,70
+1637062460097,141,HTTP Request-0,301,Moved Permanently,Thread Group 1-43,text,true,,559,122,3,3,http://google.com/classroom,141,0,70
+1637062460238,226,HTTP Request-1,301,Moved Permanently,Thread Group 1-43,text,true,,726,126,3,3,https://www.google.com/classroom,226,0,153
+1637062460464,339,HTTP Request-2,302,Moved Temporarily,Thread Group 1-43,text,true,,1917,123,3,3,https://classroom.google.com/,338,0,153
+1637062460803,463,HTTP Request-3,200,OK,Thread Group 1-43,text,true,,103189,252,3,3,https://accounts.google.com/ServiceLogin?service=classroom&passive=1209600&continue=https://classroom.google.com/&followup=https://classroom.google.com/&emr=1,285,0,144
+1637062460595,1189,HTTP Request,200,OK,Thread Group 1-44,text,true,,105436,623,3,3,https://accounts.google.com/ServiceLogin?service=classroom&passive=1209600&continue=https://classroom.google.com/&followup=https://classroom.google.com/&emr=1,148,0,75
+1637062460595,148,HTTP Request-0,301,Moved Permanently,Thread Group 1-44,text,true,,559,122,3,3,http://google.com/classroom,148,0,75
+1637062460743,223,HTTP Request-1,301,Moved Permanently,Thread Group 1-44,text,true,,726,126,3,3,https://www.google.com/classroom,223,0,149
+1637062460966,337,HTTP Request-2,302,Moved Temporarily,Thread Group 1-44,text,true,,1917,123,3,3,https://classroom.google.com/,337,0,151
+1637062461304,480,HTTP Request-3,200,OK,Thread Group 1-44,text,true,,102234,252,3,3,https://accounts.google.com/ServiceLogin?service=classroom&passive=1209600&continue=https://classroom.google.com/&followup=https://classroom.google.com/&emr=1,294,0,151
+1637062461095,1170,HTTP Request,200,OK,Thread Group 1-45,text,true,,105388,623,3,3,https://accounts.google.com/ServiceLogin?service=classroom&passive=1209600&continue=https://classroom.google.com/&followup=https://classroom.google.com/&emr=1,147,0,73
+1637062461095,147,HTTP Request-0,301,Moved Permanently,Thread Group 1-45,text,true,,559,122,3,3,http://google.com/classroom,147,0,73
+1637062461242,231,HTTP Request-1,301,Moved Permanently,Thread Group 1-45,text,true,,726,126,3,3,https://www.google.com/classroom,231,0,156
+1637062461473,333,HTTP Request-2,302,Moved Temporarily,Thread Group 1-45,text,true,,1917,123,3,3,https://classroom.google.com/,333,0,150
+1637062461807,458,HTTP Request-3,200,OK,Thread Group 1-45,text,true,,102186,252,3,3,https://accounts.google.com/ServiceLogin?service=classroom&passive=1209600&continue=https://classroom.google.com/&followup=https://classroom.google.com/&emr=1,286,0,143
+1637062461595,1207,HTTP Request,200,OK,Thread Group 1-46,text,true,,106243,623,3,3,https://accounts.google.com/ServiceLogin?service=classroom&passive=1209600&continue=https://classroom.google.com/&followup=https://classroom.google.com/&emr=1,147,0,73
+1637062461595,147,HTTP Request-0,301,Moved Permanently,Thread Group 1-46,text,true,,559,122,3,3,http://google.com/classroom,147,0,73
+1637062461742,225,HTTP Request-1,301,Moved Permanently,Thread Group 1-46,text,true,,726,126,3,3,https://www.google.com/classroom,225,0,154
+1637062461968,336,HTTP Request-2,302,Moved Temporarily,Thread Group 1-46,text,true,,1917,123,3,3,https://classroom.google.com/,336,0,151
+1637062462305,497,HTTP Request-3,200,OK,Thread Group 1-46,text,true,,103041,252,3,3,https://accounts.google.com/ServiceLogin?service=classroom&passive=1209600&continue=https://classroom.google.com/&followup=https://classroom.google.com/&emr=1,300,0,157
+1637062462096,1289,HTTP Request,200,OK,Thread Group 1-47,text,true,,106279,623,3,3,https://accounts.google.com/ServiceLogin?service=classroom&passive=1209600&continue=https://classroom.google.com/&followup=https://classroom.google.com/&emr=1,148,0,73
+1637062462096,148,HTTP Request-0,301,Moved Permanently,Thread Group 1-47,text,true,,559,122,3,3,http://google.com/classroom,148,0,73
+1637062462245,223,HTTP Request-1,301,Moved Permanently,Thread Group 1-47,text,true,,726,126,3,3,https://www.google.com/classroom,223,0,151
+1637062462468,442,HTTP Request-2,302,Moved Temporarily,Thread Group 1-47,text,true,,1917,123,3,3,https://classroom.google.com/,442,0,157
+1637062462911,474,HTTP Request-3,200,OK,Thread Group 1-47,text,true,,103077,252,3,3,https://accounts.google.com/ServiceLogin?service=classroom&passive=1209600&continue=https://classroom.google.com/&followup=https://classroom.google.com/&emr=1,289,0,152
+1637062463095,1173,HTTP Request,200,OK,Thread Group 1-49,text,true,,107311,623,4,4,https://accounts.google.com/ServiceLogin?service=classroom&passive=1209600&continue=https://classroom.google.com/&followup=https://classroom.google.com/&emr=1,144,0,71
+1637062463095,144,HTTP Request-0,301,Moved Permanently,Thread Group 1-49,text,true,,559,122,4,4,http://google.com/classroom,144,0,71
+1637062463239,224,HTTP Request-1,301,Moved Permanently,Thread Group 1-49,text,true,,726,126,4,4,https://www.google.com/classroom,224,0,157
+1637062463463,328,HTTP Request-2,302,Moved Temporarily,Thread Group 1-49,text,true,,1917,123,4,4,https://classroom.google.com/,328,0,145
+1637062463791,477,HTTP Request-3,200,OK,Thread Group 1-49,text,true,,104109,252,4,4,https://accounts.google.com/ServiceLogin?service=classroom&passive=1209600&continue=https://classroom.google.com/&followup=https://classroom.google.com/&emr=1,288,0,152
+1637062462596,2020,HTTP Request,200,OK,Thread Group 1-48,text,true,,106345,623,4,4,https://accounts.google.com/ServiceLogin?service=classroom&passive=1209600&continue=https://classroom.google.com/&followup=https://classroom.google.com/&emr=1,140,0,69
+1637062462596,140,HTTP Request-0,301,Moved Permanently,Thread Group 1-48,text,true,,559,122,4,4,http://google.com/classroom,140,0,69
+1637062462736,230,HTTP Request-1,301,Moved Permanently,Thread Group 1-48,text,true,,726,126,4,4,https://www.google.com/classroom,230,0,155
+1637062462967,1187,HTTP Request-2,302,Moved Temporarily,Thread Group 1-48,text,true,,1917,123,4,4,https://classroom.google.com/,1187,0,150
+1637062464155,461,HTTP Request-3,200,OK,Thread Group 1-48,text,true,,103143,252,4,4,https://accounts.google.com/ServiceLogin?service=classroom&passive=1209600&continue=https://classroom.google.com/&followup=https://classroom.google.com/&emr=1,271,0,144
+1637062463594,1158,HTTP Request,200,OK,Thread Group 1-50,text,true,,106175,623,3,3,https://accounts.google.com/ServiceLogin?service=classroom&passive=1209600&continue=https://classroom.google.com/&followup=https://classroom.google.com/&emr=1,141,0,71
+1637062463594,141,HTTP Request-0,301,Moved Permanently,Thread Group 1-50,text,true,,559,122,3,3,http://google.com/classroom,141,0,71
+1637062463735,230,HTTP Request-1,301,Moved Permanently,Thread Group 1-50,text,true,,726,126,3,3,https://www.google.com/classroom,230,0,161
+1637062463966,340,HTTP Request-2,302,Moved Temporarily,Thread Group 1-50,text,true,,1917,123,3,3,https://classroom.google.com/,340,0,155
+1637062464306,446,HTTP Request-3,200,OK,Thread Group 1-50,text,true,,102973,252,3,3,https://accounts.google.com/ServiceLogin?service=classroom&passive=1209600&continue=https://classroom.google.com/&followup=https://classroom.google.com/&emr=1,265,0,139
+1637062464095,1200,HTTP Request,200,OK,Thread Group 1-51,text,true,,106331,623,3,3,https://accounts.google.com/ServiceLogin?service=classroom&passive=1209600&continue=https://classroom.google.com/&followup=https://classroom.google.com/&emr=1,134,0,67
+1637062464095,134,HTTP Request-0,301,Moved Permanently,Thread Group 1-51,text,true,,559,122,3,3,http://google.com/classroom,134,0,67
+1637062464230,224,HTTP Request-1,301,Moved Permanently,Thread Group 1-51,text,true,,726,126,3,3,https://www.google.com/classroom,224,0,152
+1637062464455,356,HTTP Request-2,302,Moved Temporarily,Thread Group 1-51,text,true,,1917,123,3,3,https://classroom.google.com/,355,0,160
+1637062464811,484,HTTP Request-3,200,OK,Thread Group 1-51,text,true,,103129,252,3,3,https://accounts.google.com/ServiceLogin?service=classroom&passive=1209600&continue=https://classroom.google.com/&followup=https://classroom.google.com/&emr=1,289,0,152
+1637062464595,1778,HTTP Request,200,OK,Thread Group 1-52,text,true,,107387,623,4,4,https://accounts.google.com/ServiceLogin?service=classroom&passive=1209600&continue=https://classroom.google.com/&followup=https://classroom.google.com/&emr=1,140,0,69
+1637062464595,140,HTTP Request-0,301,Moved Permanently,Thread Group 1-52,text,true,,559,122,4,4,http://google.com/classroom,140,0,69
+1637062464735,219,HTTP Request-1,301,Moved Permanently,Thread Group 1-52,text,true,,726,126,4,4,https://www.google.com/classroom,219,0,150
+1637062464955,949,HTTP Request-2,302,Moved Temporarily,Thread Group 1-52,text,true,,1917,123,4,4,https://classroom.google.com/,949,0,158
+1637062465905,468,HTTP Request-3,200,OK,Thread Group 1-52,text,true,,104185,252,4,4,https://accounts.google.com/ServiceLogin?service=classroom&passive=1209600&continue=https://classroom.google.com/&followup=https://classroom.google.com/&emr=1,280,0,149
+1637062465095,1298,HTTP Request,200,OK,Thread Group 1-53,text,true,,106307,623,3,3,https://accounts.google.com/ServiceLogin?service=classroom&passive=1209600&continue=https://classroom.google.com/&followup=https://classroom.google.com/&emr=1,139,0,70
+1637062465095,139,HTTP Request-0,301,Moved Permanently,Thread Group 1-53,text,true,,559,122,3,3,http://google.com/classroom,139,0,70
+1637062465234,241,HTTP Request-1,301,Moved Permanently,Thread Group 1-53,text,true,,726,126,3,3,https://www.google.com/classroom,241,0,163
+1637062465476,432,HTTP Request-2,302,Moved Temporarily,Thread Group 1-53,text,true,,1917,123,3,3,https://classroom.google.com/,432,0,151
+1637062465908,485,HTTP Request-3,200,OK,Thread Group 1-53,text,true,,103105,252,3,3,https://accounts.google.com/ServiceLogin?service=classroom&passive=1209600&continue=https://classroom.google.com/&followup=https://classroom.google.com/&emr=1,295,0,153
+1637062465596,1191,HTTP Request,200,OK,Thread Group 1-54,text,true,,106423,623,3,3,https://accounts.google.com/ServiceLogin?service=classroom&passive=1209600&continue=https://classroom.google.com/&followup=https://classroom.google.com/&emr=1,134,0,66
+1637062465596,134,HTTP Request-0,301,Moved Permanently,Thread Group 1-54,text,true,,559,122,3,3,http://google.com/classroom,134,0,66
+1637062465730,232,HTTP Request-1,301,Moved Permanently,Thread Group 1-54,text,true,,726,126,3,3,https://www.google.com/classroom,232,0,158
+1637062465962,343,HTTP Request-2,302,Moved Temporarily,Thread Group 1-54,text,true,,1917,123,3,3,https://classroom.google.com/,343,0,154
+1637062466305,482,HTTP Request-3,200,OK,Thread Group 1-54,text,true,,103221,252,3,3,https://accounts.google.com/ServiceLogin?service=classroom&passive=1209600&continue=https://classroom.google.com/&followup=https://classroom.google.com/&emr=1,289,0,150
+1637062466095,1416,HTTP Request,200,OK,Thread Group 1-55,text,true,,106417,623,3,3,https://accounts.google.com/ServiceLogin?service=classroom&passive=1209600&continue=https://classroom.google.com/&followup=https://classroom.google.com/&emr=1,141,0,70
+1637062466095,141,HTTP Request-0,301,Moved Permanently,Thread Group 1-55,text,true,,559,122,3,3,http://google.com/classroom,141,0,70
+1637062466237,220,HTTP Request-1,301,Moved Permanently,Thread Group 1-55,text,true,,726,126,3,3,https://www.google.com/classroom,220,0,150
+1637062466457,585,HTTP Request-2,302,Moved Temporarily,Thread Group 1-55,text,true,,1917,123,3,3,https://classroom.google.com/,585,0,157
+1637062467043,468,HTTP Request-3,200,OK,Thread Group 1-55,text,true,,103215,252,3,3,https://accounts.google.com/ServiceLogin?service=classroom&passive=1209600&continue=https://classroom.google.com/&followup=https://classroom.google.com/&emr=1,283,0,147
+1637062466594,1196,HTTP Request,200,OK,Thread Group 1-56,text,true,,106239,623,3,3,https://accounts.google.com/ServiceLogin?service=classroom&passive=1209600&continue=https://classroom.google.com/&followup=https://classroom.google.com/&emr=1,147,0,73
+1637062466594,147,HTTP Request-0,301,Moved Permanently,Thread Group 1-56,text,true,,559,122,3,3,http://google.com/classroom,147,0,73
+1637062466741,231,HTTP Request-1,301,Moved Permanently,Thread Group 1-56,text,true,,726,126,3,3,https://www.google.com/classroom,231,0,157
+1637062466973,338,HTTP Request-2,302,Moved Temporarily,Thread Group 1-56,text,true,,1917,123,3,3,https://classroom.google.com/,337,0,154
+1637062467311,479,HTTP Request-3,200,OK,Thread Group 1-56,text,true,,103037,252,3,3,https://accounts.google.com/ServiceLogin?service=classroom&passive=1209600&continue=https://classroom.google.com/&followup=https://classroom.google.com/&emr=1,290,0,152
+1637062467595,1178,HTTP Request,200,OK,Thread Group 1-58,text,true,,105476,623,4,4,https://accounts.google.com/ServiceLogin?service=classroom&passive=1209600&continue=https://classroom.google.com/&followup=https://classroom.google.com/&emr=1,148,0,73
+1637062467595,148,HTTP Request-0,301,Moved Permanently,Thread Group 1-58,text,true,,559,122,4,4,http://google.com/classroom,148,0,73
+1637062467743,236,HTTP Request-1,301,Moved Permanently,Thread Group 1-58,text,true,,726,126,4,4,https://www.google.com/classroom,236,0,163
+1637062467979,339,HTTP Request-2,302,Moved Temporarily,Thread Group 1-58,text,true,,1917,123,4,4,https://classroom.google.com/,339,0,153
+1637062468318,455,HTTP Request-3,200,OK,Thread Group 1-58,text,true,,102274,252,4,4,https://accounts.google.com/ServiceLogin?service=classroom&passive=1209600&continue=https://classroom.google.com/&followup=https://classroom.google.com/&emr=1,278,0,144
+1637062467095,1706,HTTP Request,200,OK,Thread Group 1-57,text,true,,106319,623,3,3,https://accounts.google.com/ServiceLogin?service=classroom&passive=1209600&continue=https://classroom.google.com/&followup=https://classroom.google.com/&emr=1,141,0,70
+1637062467095,141,HTTP Request-0,301,Moved Permanently,Thread Group 1-57,text,true,,559,122,3,3,http://google.com/classroom,141,0,70
+1637062467236,210,HTTP Request-1,301,Moved Permanently,Thread Group 1-57,text,true,,726,126,3,3,https://www.google.com/classroom,210,0,144
+1637062467446,838,HTTP Request-2,302,Moved Temporarily,Thread Group 1-57,text,true,,1917,123,3,3,https://classroom.google.com/,838,0,167
+1637062468284,517,HTTP Request-3,200,OK,Thread Group 1-57,text,true,,103117,252,3,3,https://accounts.google.com/ServiceLogin?service=classroom&passive=1209600&continue=https://classroom.google.com/&followup=https://classroom.google.com/&emr=1,309,0,167
+1637062468095,1252,HTTP Request,200,OK,Thread Group 1-59,text,true,,105508,623,3,3,https://accounts.google.com/ServiceLogin?service=classroom&passive=1209600&continue=https://classroom.google.com/&followup=https://classroom.google.com/&emr=1,132,0,67
+1637062468095,132,HTTP Request-0,301,Moved Permanently,Thread Group 1-59,text,true,,559,122,3,3,http://google.com/classroom,132,0,67
+1637062468228,222,HTTP Request-1,301,Moved Permanently,Thread Group 1-59,text,true,,726,126,3,3,https://www.google.com/classroom,222,0,151
+1637062468450,429,HTTP Request-2,302,Moved Temporarily,Thread Group 1-59,text,true,,1917,123,3,3,https://classroom.google.com/,429,0,148
+1637062468879,468,HTTP Request-3,200,OK,Thread Group 1-59,text,true,,102306,252,3,3,https://accounts.google.com/ServiceLogin?service=classroom&passive=1209600&continue=https://classroom.google.com/&followup=https://classroom.google.com/&emr=1,288,0,148
+1637062468595,2006,HTTP Request,200,OK,Thread Group 1-60,text,true,,106369,623,5,5,https://accounts.google.com/ServiceLogin?service=classroom&passive=1209600&continue=https://classroom.google.com/&followup=https://classroom.google.com/&emr=1,141,0,68
+1637062468595,141,HTTP Request-0,301,Moved Permanently,Thread Group 1-60,text,true,,559,122,5,5,http://google.com/classroom,141,0,68
+1637062468736,217,HTTP Request-1,301,Moved Permanently,Thread Group 1-60,text,true,,726,126,5,5,https://www.google.com/classroom,217,0,149
+1637062468953,1164,HTTP Request-2,302,Moved Temporarily,Thread Group 1-60,text,true,,1917,123,5,5,https://classroom.google.com/,1164,0,148
+1637062470117,484,HTTP Request-3,200,OK,Thread Group 1-60,text,true,,103167,252,5,5,https://accounts.google.com/ServiceLogin?service=classroom&passive=1209600&continue=https://classroom.google.com/&followup=https://classroom.google.com/&emr=1,291,0,152
+1637062469096,1616,HTTP Request,200,OK,Thread Group 1-61,text,true,,105464,623,4,4,https://accounts.google.com/ServiceLogin?service=classroom&passive=1209600&continue=https://classroom.google.com/&followup=https://classroom.google.com/&emr=1,148,0,74
+1637062469096,148,HTTP Request-0,301,Moved Permanently,Thread Group 1-61,text,true,,559,122,4,4,http://google.com/classroom,148,0,74
+1637062469245,219,HTTP Request-1,301,Moved Permanently,Thread Group 1-61,text,true,,726,126,4,4,https://www.google.com/classroom,219,0,151
+1637062469464,755,HTTP Request-2,302,Moved Temporarily,Thread Group 1-61,text,true,,1917,123,4,4,https://classroom.google.com/,755,0,154
+1637062470219,493,HTTP Request-3,200,OK,Thread Group 1-61,text,true,,102262,252,4,4,https://accounts.google.com/ServiceLogin?service=classroom&passive=1209600&continue=https://classroom.google.com/&followup=https://classroom.google.com/&emr=1,302,0,152
+1637062469595,1265,HTTP Request,200,OK,Thread Group 1-62,text,true,,105432,623,3,3,https://accounts.google.com/ServiceLogin?service=classroom&passive=1209600&continue=https://classroom.google.com/&followup=https://classroom.google.com/&emr=1,134,0,66
+1637062469595,134,HTTP Request-0,301,Moved Permanently,Thread Group 1-62,text,true,,559,122,3,3,http://google.com/classroom,134,0,66
+1637062469730,212,HTTP Request-1,301,Moved Permanently,Thread Group 1-62,text,true,,726,126,3,3,https://www.google.com/classroom,212,0,144
+1637062469942,429,HTTP Request-2,302,Moved Temporarily,Thread Group 1-62,text,true,,1917,123,3,3,https://classroom.google.com/,429,0,150
+1637062470371,489,HTTP Request-3,200,OK,Thread Group 1-62,text,true,,102230,252,3,3,https://accounts.google.com/ServiceLogin?service=classroom&passive=1209600&continue=https://classroom.google.com/&followup=https://classroom.google.com/&emr=1,295,0,156
+1637062470097,1206,HTTP Request,200,OK,Thread Group 1-63,text,true,,106251,623,3,3,https://accounts.google.com/ServiceLogin?service=classroom&passive=1209600&continue=https://classroom.google.com/&followup=https://classroom.google.com/&emr=1,149,0,73
+1637062470097,149,HTTP Request-0,301,Moved Permanently,Thread Group 1-63,text,true,,559,122,3,3,http://google.com/classroom,149,0,73
+1637062470247,221,HTTP Request-1,301,Moved Permanently,Thread Group 1-63,text,true,,726,126,3,3,https://www.google.com/classroom,221,0,150
+1637062470468,347,HTTP Request-2,302,Moved Temporarily,Thread Group 1-63,text,true,,1917,123,3,3,https://classroom.google.com/,347,0,155
+1637062470816,487,HTTP Request-3,200,OK,Thread Group 1-63,text,true,,103049,252,3,3,https://accounts.google.com/ServiceLogin?service=classroom&passive=1209600&continue=https://classroom.google.com/&followup=https://classroom.google.com/&emr=1,294,0,156
+1637062470594,1403,HTTP Request,200,OK,Thread Group 1-64,text,true,,106552,623,3,3,https://accounts.google.com/ServiceLogin?service=classroom&passive=1209600&continue=https://classroom.google.com/&followup=https://classroom.google.com/&emr=1,131,0,64
+1637062470594,131,HTTP Request-0,301,Moved Permanently,Thread Group 1-64,text,true,,559,122,3,3,http://google.com/classroom,131,0,64
+1637062470725,218,HTTP Request-1,301,Moved Permanently,Thread Group 1-64,text,true,,726,126,3,3,https://www.google.com/classroom,218,0,148
+1637062470943,560,HTTP Request-2,302,Moved Temporarily,Thread Group 1-64,text,true,,1917,123,3,3,https://classroom.google.com/,560,0,152
+1637062471503,494,HTTP Request-3,200,OK,Thread Group 1-64,text,true,,103350,252,3,3,https://accounts.google.com/ServiceLogin?service=classroom&passive=1209600&continue=https://classroom.google.com/&followup=https://classroom.google.com/&emr=1,298,0,156
+1637062471094,1938,HTTP Request,200,OK,Thread Group 1-65,text,true,,105384,623,4,4,https://accounts.google.com/ServiceLogin?service=classroom&passive=1209600&continue=https://classroom.google.com/&followup=https://classroom.google.com/&emr=1,140,0,70
+1637062471094,140,HTTP Request-0,301,Moved Permanently,Thread Group 1-65,text,true,,559,122,4,4,http://google.com/classroom,140,0,70
+1637062471234,226,HTTP Request-1,301,Moved Permanently,Thread Group 1-65,text,true,,726,126,4,4,https://www.google.com/classroom,226,0,153
+1637062471461,1101,HTTP Request-2,302,Moved Temporarily,Thread Group 1-65,text,true,,1917,123,4,4,https://classroom.google.com/,1101,0,149
+1637062472562,470,HTTP Request-3,200,OK,Thread Group 1-65,text,true,,102182,252,4,4,https://accounts.google.com/ServiceLogin?service=classroom&passive=1209600&continue=https://classroom.google.com/&followup=https://classroom.google.com/&emr=1,282,0,154
+1637062471595,1485,HTTP Request,200,OK,Thread Group 1-66,text,true,,105520,623,3,3,https://accounts.google.com/ServiceLogin?service=classroom&passive=1209600&continue=https://classroom.google.com/&followup=https://classroom.google.com/&emr=1,138,0,68
+1637062471595,138,HTTP Request-0,301,Moved Permanently,Thread Group 1-66,text,true,,559,122,3,3,http://google.com/classroom,138,0,68
+1637062471733,217,HTTP Request-1,301,Moved Permanently,Thread Group 1-66,text,true,,726,126,3,3,https://www.google.com/classroom,217,0,146
+1637062471951,606,HTTP Request-2,302,Moved Temporarily,Thread Group 1-66,text,true,,1917,123,3,3,https://classroom.google.com/,605,0,143
+1637062472557,523,HTTP Request-3,200,OK,Thread Group 1-66,text,true,,102318,252,3,3,https://accounts.google.com/ServiceLogin?service=classroom&passive=1209600&continue=https://classroom.google.com/&followup=https://classroom.google.com/&emr=1,337,0,154
+1637062472095,1182,HTTP Request,200,OK,Thread Group 1-67,text,true,,105440,623,3,3,https://accounts.google.com/ServiceLogin?service=classroom&passive=1209600&continue=https://classroom.google.com/&followup=https://classroom.google.com/&emr=1,140,0,69
+1637062472095,140,HTTP Request-0,301,Moved Permanently,Thread Group 1-67,text,true,,559,122,3,3,http://google.com/classroom,140,0,69
+1637062472235,220,HTTP Request-1,301,Moved Permanently,Thread Group 1-67,text,true,,726,126,3,3,https://www.google.com/classroom,220,0,150
+1637062472455,336,HTTP Request-2,302,Moved Temporarily,Thread Group 1-67,text,true,,1917,123,3,3,https://classroom.google.com/,336,0,149
+1637062472792,485,HTTP Request-3,200,OK,Thread Group 1-67,text,true,,102238,252,3,3,https://accounts.google.com/ServiceLogin?service=classroom&passive=1209600&continue=https://classroom.google.com/&followup=https://classroom.google.com/&emr=1,299,0,154
+1637062472594,1351,HTTP Request,200,OK,Thread Group 1-68,text,true,,105456,623,3,3,https://accounts.google.com/ServiceLogin?service=classroom&passive=1209600&continue=https://classroom.google.com/&followup=https://classroom.google.com/&emr=1,137,0,68
+1637062472594,137,HTTP Request-0,301,Moved Permanently,Thread Group 1-68,text,true,,559,122,3,3,http://google.com/classroom,137,0,68
+1637062472732,226,HTTP Request-1,301,Moved Permanently,Thread Group 1-68,text,true,,726,126,3,3,https://www.google.com/classroom,226,0,155
+1637062472959,503,HTTP Request-2,302,Moved Temporarily,Thread Group 1-68,text,true,,1917,123,3,3,https://classroom.google.com/,501,0,149
+1637062473462,483,HTTP Request-3,200,OK,Thread Group 1-68,text,true,,102254,252,3,3,https://accounts.google.com/ServiceLogin?service=classroom&passive=1209600&continue=https://classroom.google.com/&followup=https://classroom.google.com/&emr=1,289,0,152
+1637062473594,1206,HTTP Request,200,OK,Thread Group 1-70,text,true,,106471,623,4,4,https://accounts.google.com/ServiceLogin?service=classroom&passive=1209600&continue=https://classroom.google.com/&followup=https://classroom.google.com/&emr=1,139,0,69
+1637062473594,139,HTTP Request-0,301,Moved Permanently,Thread Group 1-70,text,true,,559,122,4,4,http://google.com/classroom,139,0,69
+1637062473734,229,HTTP Request-1,301,Moved Permanently,Thread Group 1-70,text,true,,726,126,4,4,https://www.google.com/classroom,229,0,154
+1637062473964,368,HTTP Request-2,302,Moved Temporarily,Thread Group 1-70,text,true,,1917,123,4,4,https://classroom.google.com/,368,0,155
+1637062474332,468,HTTP Request-3,200,OK,Thread Group 1-70,text,true,,103269,252,4,4,https://accounts.google.com/ServiceLogin?service=classroom&passive=1209600&continue=https://classroom.google.com/&followup=https://classroom.google.com/&emr=1,284,0,151
+1637062473095,1755,HTTP Request,200,OK,Thread Group 1-69,text,true,,106275,623,3,3,https://accounts.google.com/ServiceLogin?service=classroom&passive=1209600&continue=https://classroom.google.com/&followup=https://classroom.google.com/&emr=1,138,0,68
+1637062473095,138,HTTP Request-0,301,Moved Permanently,Thread Group 1-69,text,true,,559,122,3,3,http://google.com/classroom,138,0,68
+1637062473234,235,HTTP Request-1,301,Moved Permanently,Thread Group 1-69,text,true,,726,126,3,3,https://www.google.com/classroom,235,0,160
+1637062473469,862,HTTP Request-2,302,Moved Temporarily,Thread Group 1-69,text,true,,1917,123,3,3,https://classroom.google.com/,862,0,151
+1637062474332,518,HTTP Request-3,200,OK,Thread Group 1-69,text,true,,103073,252,3,3,https://accounts.google.com/ServiceLogin?service=classroom&passive=1209600&continue=https://classroom.google.com/&followup=https://classroom.google.com/&emr=1,304,0,167
+1637062474094,1185,HTTP Request,200,OK,Thread Group 1-71,text,true,,105460,623,3,3,https://accounts.google.com/ServiceLogin?service=classroom&passive=1209600&continue=https://classroom.google.com/&followup=https://classroom.google.com/&emr=1,140,0,70
+1637062474094,140,HTTP Request-0,301,Moved Permanently,Thread Group 1-71,text,true,,559,122,3,3,http://google.com/classroom,140,0,70
+1637062474234,222,HTTP Request-1,301,Moved Permanently,Thread Group 1-71,text,true,,726,126,3,3,https://www.google.com/classroom,222,0,152
+1637062474456,340,HTTP Request-2,302,Moved Temporarily,Thread Group 1-71,text,true,,1917,123,3,3,https://classroom.google.com/,340,0,149
+1637062474797,482,HTTP Request-3,200,OK,Thread Group 1-71,text,true,,102258,252,3,3,https://accounts.google.com/ServiceLogin?service=classroom&passive=1209600&continue=https://classroom.google.com/&followup=https://classroom.google.com/&emr=1,296,0,146
+1637062474595,1282,HTTP Request,200,OK,Thread Group 1-72,text,true,,106367,623,3,3,https://accounts.google.com/ServiceLogin?service=classroom&passive=1209600&continue=https://classroom.google.com/&followup=https://classroom.google.com/&emr=1,137,0,68
+1637062474595,137,HTTP Request-0,301,Moved Permanently,Thread Group 1-72,text,true,,559,122,3,3,http://google.com/classroom,137,0,68
+1637062474733,237,HTTP Request-1,301,Moved Permanently,Thread Group 1-72,text,true,,726,126,3,3,https://www.google.com/classroom,237,0,161
+1637062474971,447,HTTP Request-2,302,Moved Temporarily,Thread Group 1-72,text,true,,1917,123,3,3,https://classroom.google.com/,447,0,154
+1637062475419,458,HTTP Request-3,200,OK,Thread Group 1-72,text,true,,103165,252,3,3,https://accounts.google.com/ServiceLogin?service=classroom&passive=1209600&continue=https://classroom.google.com/&followup=https://classroom.google.com/&emr=1,281,0,147
+1637062475096,1186,HTTP Request,200,OK,Thread Group 1-73,text,true,,105488,623,3,3,https://accounts.google.com/ServiceLogin?service=classroom&passive=1209600&continue=https://classroom.google.com/&followup=https://classroom.google.com/&emr=1,140,0,69
+1637062475096,140,HTTP Request-0,301,Moved Permanently,Thread Group 1-73,text,true,,559,122,3,3,http://google.com/classroom,140,0,69
+1637062475237,227,HTTP Request-1,301,Moved Permanently,Thread Group 1-73,text,true,,726,126,3,3,https://www.google.com/classroom,227,0,157
+1637062475464,342,HTTP Request-2,302,Moved Temporarily,Thread Group 1-73,text,true,,1917,123,3,3,https://classroom.google.com/,342,0,152
+1637062475807,475,HTTP Request-3,200,OK,Thread Group 1-73,text,true,,102286,252,3,3,https://accounts.google.com/ServiceLogin?service=classroom&passive=1209600&continue=https://classroom.google.com/&followup=https://classroom.google.com/&emr=1,286,0,153
+1637062475595,1920,HTTP Request,200,OK,Thread Group 1-74,text,true,,106532,623,4,4,https://accounts.google.com/ServiceLogin?service=classroom&passive=1209600&continue=https://classroom.google.com/&followup=https://classroom.google.com/&emr=1,140,0,70
+1637062475595,140,HTTP Request-0,301,Moved Permanently,Thread Group 1-74,text,true,,559,122,4,4,http://google.com/classroom,140,0,70
+1637062475735,214,HTTP Request-1,301,Moved Permanently,Thread Group 1-74,text,true,,726,126,4,4,https://www.google.com/classroom,214,0,146
+1637062475949,1090,HTTP Request-2,302,Moved Temporarily,Thread Group 1-74,text,true,,1917,123,4,4,https://classroom.google.com/,1090,0,150
+1637062477040,475,HTTP Request-3,200,OK,Thread Group 1-74,text,true,,103330,252,4,4,https://accounts.google.com/ServiceLogin?service=classroom&passive=1209600&continue=https://classroom.google.com/&followup=https://classroom.google.com/&emr=1,284,0,154
+1637062476595,1289,HTTP Request,200,OK,Thread Group 1-76,text,true,,105472,623,4,4,https://accounts.google.com/ServiceLogin?service=classroom&passive=1209600&continue=https://classroom.google.com/&followup=https://classroom.google.com/&emr=1,141,0,69
+1637062476595,141,HTTP Request-0,301,Moved Permanently,Thread Group 1-76,text,true,,559,122,4,4,http://google.com/classroom,141,0,69
+1637062476736,233,HTTP Request-1,301,Moved Permanently,Thread Group 1-76,text,true,,726,126,4,4,https://www.google.com/classroom,233,0,158
+1637062476969,415,HTTP Request-2,302,Moved Temporarily,Thread Group 1-76,text,true,,1917,123,4,4,https://classroom.google.com/,415,0,150
+1637062477385,499,HTTP Request-3,200,OK,Thread Group 1-76,text,true,,102270,252,4,4,https://accounts.google.com/ServiceLogin?service=classroom&passive=1209600&continue=https://classroom.google.com/&followup=https://classroom.google.com/&emr=1,304,0,158
+1637062476095,2060,HTTP Request,200,OK,Thread Group 1-75,text,true,,106287,623,4,4,https://accounts.google.com/ServiceLogin?service=classroom&passive=1209600&continue=https://classroom.google.com/&followup=https://classroom.google.com/&emr=1,143,0,69
+1637062476095,143,HTTP Request-0,301,Moved Permanently,Thread Group 1-75,text,true,,559,122,4,4,http://google.com/classroom,143,0,69
+1637062476238,225,HTTP Request-1,301,Moved Permanently,Thread Group 1-75,text,true,,726,126,4,4,https://www.google.com/classroom,225,0,155
+1637062476463,1162,HTTP Request-2,302,Moved Temporarily,Thread Group 1-75,text,true,,1917,123,4,4,https://classroom.google.com/,1162,0,148
+1637062477625,530,HTTP Request-3,200,OK,Thread Group 1-75,text,true,,103085,252,4,4,https://accounts.google.com/ServiceLogin?service=classroom&passive=1209600&continue=https://classroom.google.com/&followup=https://classroom.google.com/&emr=1,325,0,166
+1637062477095,1351,HTTP Request,200,OK,Thread Group 1-77,text,true,,105446,623,3,3,https://accounts.google.com/ServiceLogin?service=classroom&passive=1209600&continue=https://classroom.google.com/&followup=https://classroom.google.com/&emr=1,135,0,67
+1637062477095,135,HTTP Request-0,301,Moved Permanently,Thread Group 1-77,text,true,,559,122,3,3,http://google.com/classroom,135,0,67
+1637062477231,227,HTTP Request-1,301,Moved Permanently,Thread Group 1-77,text,true,,726,126,3,3,https://www.google.com/classroom,227,0,154
+1637062477458,495,HTTP Request-2,302,Moved Temporarily,Thread Group 1-77,text,true,,1917,123,3,3,https://classroom.google.com/,494,0,167
+1637062477954,492,HTTP Request-3,200,OK,Thread Group 1-77,text,true,,102244,252,3,3,https://accounts.google.com/ServiceLogin?service=classroom&passive=1209600&continue=https://classroom.google.com/&followup=https://classroom.google.com/&emr=1,305,0,151
+1637062477594,1174,HTTP Request,200,OK,Thread Group 1-78,text,true,,106455,623,3,3,https://accounts.google.com/ServiceLogin?service=classroom&passive=1209600&continue=https://classroom.google.com/&followup=https://classroom.google.com/&emr=1,140,0,73
+1637062477594,140,HTTP Request-0,301,Moved Permanently,Thread Group 1-78,text,true,,559,122,3,3,http://google.com/classroom,140,0,73
+1637062477734,225,HTTP Request-1,301,Moved Permanently,Thread Group 1-78,text,true,,726,126,3,3,https://www.google.com/classroom,225,0,154
+1637062477960,331,HTTP Request-2,302,Moved Temporarily,Thread Group 1-78,text,true,,1917,123,3,3,https://classroom.google.com/,331,0,147
+1637062478291,477,HTTP Request-3,200,OK,Thread Group 1-78,text,true,,103253,252,3,3,https://accounts.google.com/ServiceLogin?service=classroom&passive=1209600&continue=https://classroom.google.com/&followup=https://classroom.google.com/&emr=1,292,0,153
+1637062478095,1175,HTTP Request,200,OK,Thread Group 1-79,text,true,,105528,623,3,3,https://accounts.google.com/ServiceLogin?service=classroom&passive=1209600&continue=https://classroom.google.com/&followup=https://classroom.google.com/&emr=1,151,0,75
+1637062478095,151,HTTP Request-0,301,Moved Permanently,Thread Group 1-79,text,true,,559,122,3,3,http://google.com/classroom,151,0,75
+1637062478246,233,HTTP Request-1,301,Moved Permanently,Thread Group 1-79,text,true,,726,126,3,3,https://www.google.com/classroom,233,0,159
+1637062478479,327,HTTP Request-2,302,Moved Temporarily,Thread Group 1-79,text,true,,1917,123,3,3,https://classroom.google.com/,327,0,146
+1637062478806,464,HTTP Request-3,200,OK,Thread Group 1-79,text,true,,102326,252,3,3,https://accounts.google.com/ServiceLogin?service=classroom&passive=1209600&continue=https://classroom.google.com/&followup=https://classroom.google.com/&emr=1,283,0,150
+1637062478596,1284,HTTP Request,200,OK,Thread Group 1-80,text,true,,105468,623,3,3,https://accounts.google.com/ServiceLogin?service=classroom&passive=1209600&continue=https://classroom.google.com/&followup=https://classroom.google.com/&emr=1,148,0,70
+1637062478596,148,HTTP Request-0,301,Moved Permanently,Thread Group 1-80,text,true,,559,122,3,3,http://google.com/classroom,148,0,70
+1637062478744,224,HTTP Request-1,301,Moved Permanently,Thread Group 1-80,text,true,,726,126,3,3,https://www.google.com/classroom,224,0,152
+1637062478968,435,HTTP Request-2,302,Moved Temporarily,Thread Group 1-80,text,true,,1917,123,3,3,https://classroom.google.com/,435,0,152
+1637062479404,476,HTTP Request-3,200,OK,Thread Group 1-80,text,true,,102266,252,3,3,https://accounts.google.com/ServiceLogin?service=classroom&passive=1209600&continue=https://classroom.google.com/&followup=https://classroom.google.com/&emr=1,280,0,151
+1637062479094,1200,HTTP Request,200,OK,Thread Group 1-81,text,true,,105372,623,3,3,https://accounts.google.com/ServiceLogin?service=classroom&passive=1209600&continue=https://classroom.google.com/&followup=https://classroom.google.com/&emr=1,143,0,71
+1637062479094,143,HTTP Request-0,301,Moved Permanently,Thread Group 1-81,text,true,,559,122,3,3,http://google.com/classroom,143,0,71
+1637062479237,239,HTTP Request-1,301,Moved Permanently,Thread Group 1-81,text,true,,726,126,3,3,https://www.google.com/classroom,239,0,159
+1637062479477,340,HTTP Request-2,302,Moved Temporarily,Thread Group 1-81,text,true,,1917,123,3,3,https://classroom.google.com/,340,0,151
+1637062479818,476,HTTP Request-3,200,OK,Thread Group 1-81,text,true,,102170,252,3,3,https://accounts.google.com/ServiceLogin?service=classroom&passive=1209600&continue=https://classroom.google.com/&followup=https://classroom.google.com/&emr=1,294,0,150
+1637062479595,1180,HTTP Request,200,OK,Thread Group 1-82,text,true,,105520,623,3,3,https://accounts.google.com/ServiceLogin?service=classroom&passive=1209600&continue=https://classroom.google.com/&followup=https://classroom.google.com/&emr=1,143,0,71
+1637062479595,143,HTTP Request-0,301,Moved Permanently,Thread Group 1-82,text,true,,559,122,3,3,http://google.com/classroom,143,0,71
+1637062479738,223,HTTP Request-1,301,Moved Permanently,Thread Group 1-82,text,true,,726,126,3,3,https://www.google.com/classroom,223,0,151
+1637062479962,331,HTTP Request-2,302,Moved Temporarily,Thread Group 1-82,text,true,,1917,123,3,3,https://classroom.google.com/,331,0,147
+1637062480294,481,HTTP Request-3,200,OK,Thread Group 1-82,text,true,,102318,252,3,3,https://accounts.google.com/ServiceLogin?service=classroom&passive=1209600&continue=https://classroom.google.com/&followup=https://classroom.google.com/&emr=1,294,0,151
+1637062480094,1190,HTTP Request,200,OK,Thread Group 1-83,text,true,,106367,623,3,3,https://accounts.google.com/ServiceLogin?service=classroom&passive=1209600&continue=https://classroom.google.com/&followup=https://classroom.google.com/&emr=1,142,0,71
+1637062480094,142,HTTP Request-0,301,Moved Permanently,Thread Group 1-83,text,true,,559,122,3,3,http://google.com/classroom,142,0,71
+1637062480236,229,HTTP Request-1,301,Moved Permanently,Thread Group 1-83,text,true,,726,126,3,3,https://www.google.com/classroom,229,0,157
+1637062480465,347,HTTP Request-2,302,Moved Temporarily,Thread Group 1-83,text,true,,1917,123,3,3,https://classroom.google.com/,347,0,148
+1637062480812,472,HTTP Request-3,200,OK,Thread Group 1-83,text,true,,103165,252,3,3,https://accounts.google.com/ServiceLogin?service=classroom&passive=1209600&continue=https://classroom.google.com/&followup=https://classroom.google.com/&emr=1,282,0,151
+1637062480595,1294,HTTP Request,200,OK,Thread Group 1-84,text,true,,106251,623,3,3,https://accounts.google.com/ServiceLogin?service=classroom&passive=1209600&continue=https://classroom.google.com/&followup=https://classroom.google.com/&emr=1,144,0,72
+1637062480595,144,HTTP Request-0,301,Moved Permanently,Thread Group 1-84,text,true,,559,122,3,3,http://google.com/classroom,144,0,72
+1637062480739,224,HTTP Request-1,301,Moved Permanently,Thread Group 1-84,text,true,,726,126,3,3,https://www.google.com/classroom,224,0,153
+1637062480964,428,HTTP Request-2,302,Moved Temporarily,Thread Group 1-84,text,true,,1917,123,3,3,https://classroom.google.com/,428,0,146
+1637062481392,497,HTTP Request-3,200,OK,Thread Group 1-84,text,true,,103049,252,3,3,https://accounts.google.com/ServiceLogin?service=classroom&passive=1209600&continue=https://classroom.google.com/&followup=https://classroom.google.com/&emr=1,301,0,157
+1637062481594,1269,HTTP Request,200,OK,Thread Group 1-86,text,true,,106271,623,4,4,https://accounts.google.com/ServiceLogin?service=classroom&passive=1209600&continue=https://classroom.google.com/&followup=https://classroom.google.com/&emr=1,143,0,71
+1637062481594,144,HTTP Request-0,301,Moved Permanently,Thread Group 1-86,text,true,,559,122,4,4,http://google.com/classroom,143,0,71
+1637062481738,222,HTTP Request-1,301,Moved Permanently,Thread Group 1-86,text,true,,726,126,4,4,https://www.google.com/classroom,222,0,148
+1637062481961,447,HTTP Request-2,302,Moved Temporarily,Thread Group 1-86,text,true,,1917,123,4,4,https://classroom.google.com/,446,0,154
+1637062482408,455,HTTP Request-3,200,OK,Thread Group 1-86,text,true,,103069,252,4,4,https://accounts.google.com/ServiceLogin?service=classroom&passive=1209600&continue=https://classroom.google.com/&followup=https://classroom.google.com/&emr=1,271,0,144
+1637062482096,1167,HTTP Request,200,OK,Thread Group 1-87,text,true,,106283,623,4,4,https://accounts.google.com/ServiceLogin?service=classroom&passive=1209600&continue=https://classroom.google.com/&followup=https://classroom.google.com/&emr=1,147,0,72
+1637062482096,147,HTTP Request-0,301,Moved Permanently,Thread Group 1-87,text,true,,559,122,4,4,http://google.com/classroom,147,0,72
+1637062482243,217,HTTP Request-1,301,Moved Permanently,Thread Group 1-87,text,true,,726,126,4,4,https://www.google.com/classroom,217,0,150
+1637062482461,335,HTTP Request-2,302,Moved Temporarily,Thread Group 1-87,text,true,,1917,123,4,4,https://classroom.google.com/,335,0,150
+1637062482796,467,HTTP Request-3,200,OK,Thread Group 1-87,text,true,,103081,252,4,4,https://accounts.google.com/ServiceLogin?service=classroom&passive=1209600&continue=https://classroom.google.com/&followup=https://classroom.google.com/&emr=1,286,0,149
+1637062481096,2189,HTTP Request,200,OK,Thread Group 1-85,text,true,,105540,623,3,3,https://accounts.google.com/ServiceLogin?service=classroom&passive=1209600&continue=https://classroom.google.com/&followup=https://classroom.google.com/&emr=1,142,0,70
+1637062481096,142,HTTP Request-0,301,Moved Permanently,Thread Group 1-85,text,true,,559,122,3,3,http://google.com/classroom,142,0,70
+1637062481238,222,HTTP Request-1,301,Moved Permanently,Thread Group 1-85,text,true,,726,126,3,3,https://www.google.com/classroom,222,0,150
+1637062481460,1325,HTTP Request-2,302,Moved Temporarily,Thread Group 1-85,text,true,,1917,123,3,3,https://classroom.google.com/,1325,0,154
+1637062482785,500,HTTP Request-3,200,OK,Thread Group 1-85,text,true,,102338,252,3,3,https://accounts.google.com/ServiceLogin?service=classroom&passive=1209600&continue=https://classroom.google.com/&followup=https://classroom.google.com/&emr=1,309,0,160
+1637062483095,2149,HTTP Request,200,OK,Thread Group 1-89,text,true,,106391,623,6,6,https://accounts.google.com/ServiceLogin?service=classroom&passive=1209600&continue=https://classroom.google.com/&followup=https://classroom.google.com/&emr=1,141,0,69
+1637062483095,141,HTTP Request-0,301,Moved Permanently,Thread Group 1-89,text,true,,559,122,6,6,http://google.com/classroom,141,0,69
+1637062483236,243,HTTP Request-1,301,Moved Permanently,Thread Group 1-89,text,true,,726,126,6,6,https://www.google.com/classroom,243,0,166
+1637062483479,1286,HTTP Request-2,302,Moved Temporarily,Thread Group 1-89,text,true,,1917,123,6,6,https://classroom.google.com/,1286,0,150
+1637062484766,478,HTTP Request-3,200,OK,Thread Group 1-89,text,true,,103189,252,6,6,https://accounts.google.com/ServiceLogin?service=classroom&passive=1209600&continue=https://classroom.google.com/&followup=https://classroom.google.com/&emr=1,292,0,149
+1637062482595,2685,HTTP Request,200,OK,Thread Group 1-88,text,true,,107423,623,5,5,https://accounts.google.com/ServiceLogin?service=classroom&passive=1209600&continue=https://classroom.google.com/&followup=https://classroom.google.com/&emr=1,148,0,73
+1637062482595,148,HTTP Request-0,301,Moved Permanently,Thread Group 1-88,text,true,,559,122,5,5,http://google.com/classroom,148,0,73
+1637062482743,229,HTTP Request-1,301,Moved Permanently,Thread Group 1-88,text,true,,726,126,5,5,https://www.google.com/classroom,229,0,156
+1637062482972,1793,HTTP Request-2,302,Moved Temporarily,Thread Group 1-88,text,true,,1917,123,5,5,https://classroom.google.com/,1793,0,157
+1637062484765,515,HTTP Request-3,200,OK,Thread Group 1-88,text,true,,104221,252,5,5,https://accounts.google.com/ServiceLogin?service=classroom&passive=1209600&continue=https://classroom.google.com/&followup=https://classroom.google.com/&emr=1,310,0,161
+1637062483594,1725,HTTP Request,200,OK,Thread Group 1-90,text,true,,105436,623,4,4,https://accounts.google.com/ServiceLogin?service=classroom&passive=1209600&continue=https://classroom.google.com/&followup=https://classroom.google.com/&emr=1,140,0,70
+1637062483594,140,HTTP Request-0,301,Moved Permanently,Thread Group 1-90,text,true,,559,122,4,4,http://google.com/classroom,140,0,70
+1637062483734,228,HTTP Request-1,301,Moved Permanently,Thread Group 1-90,text,true,,726,126,4,4,https://www.google.com/classroom,228,0,153
+1637062483962,898,HTTP Request-2,302,Moved Temporarily,Thread Group 1-90,text,true,,1917,123,4,4,https://classroom.google.com/,898,0,151
+1637062484861,458,HTTP Request-3,200,OK,Thread Group 1-90,text,true,,102234,252,4,4,https://accounts.google.com/ServiceLogin?service=classroom&passive=1209600&continue=https://classroom.google.com/&followup=https://classroom.google.com/&emr=1,283,0,150
+1637062484095,1437,HTTP Request,200,OK,Thread Group 1-91,text,true,,106337,623,3,3,https://accounts.google.com/ServiceLogin?service=classroom&passive=1209600&continue=https://classroom.google.com/&followup=https://classroom.google.com/&emr=1,135,0,67
+1637062484095,135,HTTP Request-0,301,Moved Permanently,Thread Group 1-91,text,true,,559,122,3,3,http://google.com/classroom,135,0,67
+1637062484230,224,HTTP Request-1,301,Moved Permanently,Thread Group 1-91,text,true,,726,126,3,3,https://www.google.com/classroom,224,0,155
+1637062484454,605,HTTP Request-2,302,Moved Temporarily,Thread Group 1-91,text,true,,1917,123,3,3,https://classroom.google.com/,605,0,151
+1637062485060,472,HTTP Request-3,200,OK,Thread Group 1-91,text,true,,103135,252,3,3,https://accounts.google.com/ServiceLogin?service=classroom&passive=1209600&continue=https://classroom.google.com/&followup=https://classroom.google.com/&emr=1,289,0,155
+1637062484594,1498,HTTP Request,200,OK,Thread Group 1-92,text,true,,106548,623,3,3,https://accounts.google.com/ServiceLogin?service=classroom&passive=1209600&continue=https://classroom.google.com/&followup=https://classroom.google.com/&emr=1,149,0,74
+1637062484594,149,HTTP Request-0,301,Moved Permanently,Thread Group 1-92,text,true,,559,122,3,3,http://google.com/classroom,149,0,74
+1637062484744,214,HTTP Request-1,301,Moved Permanently,Thread Group 1-92,text,true,,726,126,3,3,https://www.google.com/classroom,214,0,149
+1637062484959,640,HTTP Request-2,302,Moved Temporarily,Thread Group 1-92,text,true,,1917,123,3,3,https://classroom.google.com/,638,0,157
+1637062485599,493,HTTP Request-3,200,OK,Thread Group 1-92,text,true,,103346,252,3,3,https://accounts.google.com/ServiceLogin?service=classroom&passive=1209600&continue=https://classroom.google.com/&followup=https://classroom.google.com/&emr=1,304,0,150
+1637062485094,1330,HTTP Request,200,OK,Thread Group 1-93,text,true,,105522,623,3,3,https://accounts.google.com/ServiceLogin?service=classroom&passive=1209600&continue=https://classroom.google.com/&followup=https://classroom.google.com/&emr=1,142,0,71
+1637062485094,142,HTTP Request-0,301,Moved Permanently,Thread Group 1-93,text,true,,559,122,3,3,http://google.com/classroom,142,0,71
+1637062485237,223,HTTP Request-1,301,Moved Permanently,Thread Group 1-93,text,true,,726,126,3,3,https://www.google.com/classroom,223,0,149
+1637062485461,486,HTTP Request-2,302,Moved Temporarily,Thread Group 1-93,text,true,,1917,123,3,3,https://classroom.google.com/,485,0,156
+1637062485947,477,HTTP Request-3,200,OK,Thread Group 1-93,text,true,,102320,252,3,3,https://accounts.google.com/ServiceLogin?service=classroom&passive=1209600&continue=https://classroom.google.com/&followup=https://classroom.google.com/&emr=1,294,0,149
+1637062485596,1284,HTTP Request,200,OK,Thread Group 1-94,text,true,,105376,623,3,3,https://accounts.google.com/ServiceLogin?service=classroom&passive=1209600&continue=https://classroom.google.com/&followup=https://classroom.google.com/&emr=1,140,0,71
+1637062485596,140,HTTP Request-0,301,Moved Permanently,Thread Group 1-94,text,true,,559,122,3,3,http://google.com/classroom,140,0,71
+1637062485737,224,HTTP Request-1,301,Moved Permanently,Thread Group 1-94,text,true,,726,126,3,3,https://www.google.com/classroom,224,0,155
+1637062485961,443,HTTP Request-2,302,Moved Temporarily,Thread Group 1-94,text,true,,1917,123,3,3,https://classroom.google.com/,443,0,153
+1637062486404,476,HTTP Request-3,200,OK,Thread Group 1-94,text,true,,102174,252,3,3,https://accounts.google.com/ServiceLogin?service=classroom&passive=1209600&continue=https://classroom.google.com/&followup=https://classroom.google.com/&emr=1,291,0,151
+1637062486096,1365,HTTP Request,200,OK,Thread Group 1-95,text,true,,106313,623,3,3,https://accounts.google.com/ServiceLogin?service=classroom&passive=1209600&continue=https://classroom.google.com/&followup=https://classroom.google.com/&emr=1,141,0,74
+1637062486096,141,HTTP Request-0,301,Moved Permanently,Thread Group 1-95,text,true,,559,122,3,3,http://google.com/classroom,141,0,74
+1637062486238,224,HTTP Request-1,301,Moved Permanently,Thread Group 1-95,text,true,,726,126,3,3,https://www.google.com/classroom,224,0,149
+1637062486462,498,HTTP Request-2,302,Moved Temporarily,Thread Group 1-95,text,true,,1917,123,3,3,https://classroom.google.com/,498,0,162
+1637062486961,500,HTTP Request-3,200,OK,Thread Group 1-95,text,true,,103111,252,3,3,https://accounts.google.com/ServiceLogin?service=classroom&passive=1209600&continue=https://classroom.google.com/&followup=https://classroom.google.com/&emr=1,306,0,162
+1637062486595,1191,HTTP Request,200,OK,Thread Group 1-96,text,true,,106243,623,3,3,https://accounts.google.com/ServiceLogin?service=classroom&passive=1209600&continue=https://classroom.google.com/&followup=https://classroom.google.com/&emr=1,141,0,70
+1637062486595,141,HTTP Request-0,301,Moved Permanently,Thread Group 1-96,text,true,,559,122,3,3,http://google.com/classroom,141,0,70
+1637062486736,227,HTTP Request-1,301,Moved Permanently,Thread Group 1-96,text,true,,726,126,3,3,https://www.google.com/classroom,227,0,156
+1637062486963,337,HTTP Request-2,302,Moved Temporarily,Thread Group 1-96,text,true,,1917,123,3,3,https://classroom.google.com/,337,0,152
+1637062487300,486,HTTP Request-3,200,OK,Thread Group 1-96,text,true,,103041,252,3,3,https://accounts.google.com/ServiceLogin?service=classroom&passive=1209600&continue=https://classroom.google.com/&followup=https://classroom.google.com/&emr=1,302,0,150
+1637062487095,1171,HTTP Request,200,OK,Thread Group 1-97,text,true,,105464,623,3,3,https://accounts.google.com/ServiceLogin?service=classroom&passive=1209600&continue=https://classroom.google.com/&followup=https://classroom.google.com/&emr=1,147,0,73
+1637062487095,147,HTTP Request-0,301,Moved Permanently,Thread Group 1-97,text,true,,559,122,3,3,http://google.com/classroom,147,0,73
+1637062487243,219,HTTP Request-1,301,Moved Permanently,Thread Group 1-97,text,true,,726,126,3,3,https://www.google.com/classroom,219,0,150
+1637062487463,349,HTTP Request-2,302,Moved Temporarily,Thread Group 1-97,text,true,,1917,123,3,3,https://classroom.google.com/,349,0,149
+1637062487812,454,HTTP Request-3,200,OK,Thread Group 1-97,text,true,,102262,252,3,3,https://accounts.google.com/ServiceLogin?service=classroom&passive=1209600&continue=https://classroom.google.com/&followup=https://classroom.google.com/&emr=1,277,0,146
+1637062487595,1206,HTTP Request,200,OK,Thread Group 1-98,text,true,,106423,623,3,3,https://accounts.google.com/ServiceLogin?service=classroom&passive=1209600&continue=https://classroom.google.com/&followup=https://classroom.google.com/&emr=1,149,0,74
+1637062487595,149,HTTP Request-0,301,Moved Permanently,Thread Group 1-98,text,true,,559,122,3,3,http://google.com/classroom,149,0,74
+1637062487744,222,HTTP Request-1,301,Moved Permanently,Thread Group 1-98,text,true,,726,126,3,3,https://www.google.com/classroom,222,0,153
+1637062487966,350,HTTP Request-2,302,Moved Temporarily,Thread Group 1-98,text,true,,1917,123,3,3,https://classroom.google.com/,349,0,160
+1637062488316,485,HTTP Request-3,200,OK,Thread Group 1-98,text,true,,103221,252,3,3,https://accounts.google.com/ServiceLogin?service=classroom&passive=1209600&continue=https://classroom.google.com/&followup=https://classroom.google.com/&emr=1,303,0,153
+1637062488095,1192,HTTP Request,200,OK,Thread Group 1-99,text,true,,105332,623,2,2,https://accounts.google.com/ServiceLogin?service=classroom&passive=1209600&continue=https://classroom.google.com/&followup=https://classroom.google.com/&emr=1,141,0,70
+1637062488095,141,HTTP Request-0,301,Moved Permanently,Thread Group 1-99,text,true,,559,122,2,2,http://google.com/classroom,141,0,70
+1637062488237,223,HTTP Request-1,301,Moved Permanently,Thread Group 1-99,text,true,,726,126,2,2,https://www.google.com/classroom,223,0,148
+1637062488460,351,HTTP Request-2,302,Moved Temporarily,Thread Group 1-99,text,true,,1917,123,2,2,https://classroom.google.com/,350,0,159
+1637062488811,476,HTTP Request-3,200,OK,Thread Group 1-99,text,true,,102130,252,2,2,https://accounts.google.com/ServiceLogin?service=classroom&passive=1209600&continue=https://classroom.google.com/&followup=https://classroom.google.com/&emr=1,286,0,152
+1637062488594,1203,HTTP Request,200,OK,Thread Group 1-100,text,true,,105472,623,1,1,https://accounts.google.com/ServiceLogin?service=classroom&passive=1209600&continue=https://classroom.google.com/&followup=https://classroom.google.com/&emr=1,138,0,69
+1637062488594,138,HTTP Request-0,301,Moved Permanently,Thread Group 1-100,text,true,,559,122,1,1,http://google.com/classroom,138,0,69
+1637062488732,220,HTTP Request-1,301,Moved Permanently,Thread Group 1-100,text,true,,726,126,1,1,https://www.google.com/classroom,220,0,150
+1637062488952,345,HTTP Request-2,302,Moved Temporarily,Thread Group 1-100,text,true,,1917,123,1,1,https://classroom.google.com/,344,0,158
+1637062489298,499,HTTP Request-3,200,OK,Thread Group 1-100,text,true,,102270,252,1,1,https://accounts.google.com/ServiceLogin?service=classroom&passive=1209600&continue=https://classroom.google.com/&followup=https://classroom.google.com/&emr=1,302,0,162
